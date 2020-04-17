@@ -1,6 +1,9 @@
 | CTF                      | Challenge |
 |--------------------------|-----------|
-| [PlaidCTF 2020](PlaidCTF/2020) ([CTFtime](https://ctftime.org/event/936)) | [no_canary](PlaidCTF/2020/ipppc) |
+| [PlaidCTF 2020](PlaidCTF/2020) ([CTFtime](https://ctftime.org/event/936)) | [ipppc](PlaidCTF/2020/ipppc) |
+| [WPICTF 2020](WPICTF/2020) ([CTFtime](https://ctftime.org/event/913)) | [dontatme](WPICTF/2020/dontatme) |
+| [WPICTF 2020](WPICTF/2020) ([CTFtime](https://ctftime.org/event/913)) | [dorsia3](WPICTF/2020/dorsia3) |
+| [WPICTF 2020](WPICTF/2020) ([CTFtime](https://ctftime.org/event/913)) | [dorsia4](WPICTF/2020/dorsia4) |
 | [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [no_canary](angstromCTF/2020/no_canary) |
 | [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [library_in_c](angstromCTF/2020/library_in_c) |
 | [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [libc.so.6](angstromCTF/2020/libc.so.6) |
