@@ -1,27 +1,27 @@
 | CTF                      | Challenge |
 |--------------------------|-----------|
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [wget](zer0pts/2020/wget) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [syscall_kit](zer0pts/2020/syscall_kit) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [protrude](zer0pts/2020/protrude) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [meowmow](zer0pts/2020/meowmow) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [hipwn](zer0pts/2020/hipwn) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [grimoire](zer0pts/2020/grimoire) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [diylist](zer0pts/2020/diylist) |
-| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/)) | [babybof](zer0pts/2020/babybof) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [tweet-raider](b01lers/2020/tweet-raider) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [meshuggah-2](b01lers/2020/meshuggah-2) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [kobayashi-maru](b01lers/2020/kobayashi-maru) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [jumpdrive](b01lers/2020/jumpdrive) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [dfv](b01lers/2020/dfv) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [blind-piloting](b01lers/2020/blind-piloting) |
-| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/)) | [black-hole](b01lers/2020/black-hole) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [no_canary](angstromCTF/2020/no_canary) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [library_in_c](angstromCTF/2020/library_in_c) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [libc.so.6](angstromCTF/2020/libc.so.6) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [dejavu](angstromCTF/2020/dejavu) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [canary](angstromCTF/2020/canary) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [bop_it](angstromCTF/2020/bop_it) |
-| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [bookface](angstromCTF/2020/bookface) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [no_canary](angstromCTF/2020/no_canary) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [library_in_c](angstromCTF/2020/library_in_c) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [libc.so.6](angstromCTF/2020/libc.so.6) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [dejavu](angstromCTF/2020/dejavu) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [canary](angstromCTF/2020/canary) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [bop_it](angstromCTF/2020/bop_it) |
+| [angstromCTF 2020](angstromCTF/2020) ([CTFtime](https://ctftime.org/event/982)) | [bookface](angstromCTF/2020/bookface) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [tweet-raider](b01lers/2020/tweet-raider) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [meshuggah-2](b01lers/2020/meshuggah-2) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [kobayashi-maru](b01lers/2020/kobayashi-maru) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [jumpdrive](b01lers/2020/jumpdrive) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [dfv](b01lers/2020/dfv) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [blind-piloting](b01lers/2020/blind-piloting) |
+| [b01lers 2020](b01lers/2020) ([CTFtime](https://ctftime.org/event/974)) | [black-hole](b01lers/2020/black-hole) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [wget](zer0pts/2020/wget) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [syscall_kit](zer0pts/2020/syscall_kit) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [protrude](zer0pts/2020/protrude) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [meowmow](zer0pts/2020/meowmow) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [hipwn](zer0pts/2020/hipwn) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [grimoire](zer0pts/2020/grimoire) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [diylist](zer0pts/2020/diylist) |
+| [zer0pts 2020](zer0pts/2020) ([CTFtime](https://ctftime.org/event/1006)) | [babybof](zer0pts/2020/babybof) |
 | [WhiteHatGrandPrix 2020 Quals](WhiteHatGrandPrix/2020/Quals) ([CTFtime](https://ctftime.org/event/)) | [pwn02](WhiteHatGrandPrix/2020/Quals/pwn02) |
 | [WhiteHatGrandPrix 2020 Quals](WhiteHatGrandPrix/2020/Quals) ([CTFtime](https://ctftime.org/event/)) | [pwn01](WhiteHatGrandPrix/2020/Quals/pwn01) |
 | [VolgaCTF 2020](VolgaCTF/2020) ([CTFtime](https://ctftime.org/event/)) | [Notepad](VolgaCTF/2020/Notepad) |
