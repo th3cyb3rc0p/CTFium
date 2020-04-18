@@ -1,6 +1,11 @@
 | CTF                        | Challenge   | Info         |
 |:--------------------------:|:-----------:|--------------|
-| [UMDCTF 2020](UMDCTF/2020)<br>([CTFtime](https://ctftime.org/event/936)) | [CaaS](PlaidCTF/2020/CaaS) | |
+| [UMDCTF 2020](UMDCTF/2020)<br>([CTFtime](https://ctftime.org/event/1040)) | [CaaS](UMDCTF/2020/CaaS) | |
+| [UMDCTF 2020](UMDCTF/2020)<br>([CTFtime](https://ctftime.org/event/1040)) | [CoalMiner](UMDCTF/2020/CoalMiner) | |
+| [UMDCTF 2020](UMDCTF/2020)<br>([CTFtime](https://ctftime.org/event/1040)) | [Crypto](UMDCTF/2020/Crypto) | |
+| [UMDCTF 2020](UMDCTF/2020)<br>([CTFtime](https://ctftime.org/event/1040)) | [EasyRight](UMDCTF/2020/EasyRight) | |
+| [UMDCTF 2020](UMDCTF/2020)<br>([CTFtime](https://ctftime.org/event/1040)) | [JumpNotFound](UMDCTF/2020/JumpNotFound) | |
+| [PlaidCTF 2020](PlaidCTF/2020)<br>([CTFtime](https://ctftime.org/event/936)) | [mojo](PlaidCTF/2020/mojo) | |
 | [PlaidCTF 2020](PlaidCTF/2020)<br>([CTFtime](https://ctftime.org/event/936)) | [EmojiDB](PlaidCTF/2020/EmojiDB) | |
 | [PlaidCTF 2020](PlaidCTF/2020)<br>([CTFtime](https://ctftime.org/event/936)) | [ipppc](PlaidCTF/2020/ipppc) | |
 | [WPICTF 2020](WPICTF/2020)<br>([CTFtime](https://ctftime.org/event/913)) | [dontatme](WPICTF/2020/dontatme) | |
