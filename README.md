@@ -5,9 +5,11 @@
 | [UMDCTF 2020](UMDCTF/2020) | [Crypto](UMDCTF/2020/Crypto) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [EasyRight](UMDCTF/2020/EasyRight) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [JumpNotFound](UMDCTF/2020/JumpNotFound) | [CTFtime Event](https://ctftime.org/event/1040) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [PlaidCTF 2020](PlaidCTF/2020) | [mojo](PlaidCTF/2020/mojo) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [PlaidCTF 2020](PlaidCTF/2020) | [back_to_the_future](PlaidCTF/2020/back_to_the_future) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [EmojiDB](PlaidCTF/2020/EmojiDB) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [ipppc](PlaidCTF/2020/ipppc) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [PlaidCTF 2020](PlaidCTF/2020) | [mojo](PlaidCTF/2020/mojo) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [PlaidCTF 2020](PlaidCTF/2020) | [sandybox](PlaidCTF/2020/sandybox) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [WPICTF 2020](WPICTF/2020) | [dontatme](WPICTF/2020/dontatme) | [CTFtime Event](https://ctftime.org/event/913)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [WPICTF 2020](WPICTF/2020) | [dorsia3](WPICTF/2020/dorsia3) | [CTFtime Event](https://ctftime.org/event/913)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [WPICTF 2020](WPICTF/2020) | [dorsia4](WPICTF/2020/dorsia4) | [CTFtime Event](https://ctftime.org/event/913)<br>[CTFtime Writeups](https://ctftime.org/task/) |
