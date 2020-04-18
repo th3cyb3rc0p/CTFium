@@ -33,8 +33,8 @@
 | [zer0pts 2020](zer0pts/2020) | [grimoire](zer0pts/2020/grimoire) | [CTFtime Event](https://ctftime.org/event/1006) |
 | [zer0pts 2020](zer0pts/2020) | [diylist](zer0pts/2020/diylist) | [CTFtime Event](https://ctftime.org/event/1006) |
 | [zer0pts 2020](zer0pts/2020) | [babybof](zer0pts/2020/babybof) | [CTFtime Event](https://ctftime.org/event/1006) |
-| [WhiteHatGrandPrix 2020 Quals](WhiteHatGrandPrix/2020/Quals) | [pwn02](WhiteHatGrandPrix/2020/Quals/pwn02) | [CTFtime Event](https://ctftime.org/event/) |
-| [WhiteHatGrandPrix 2020 Quals](WhiteHatGrandPrix/2020/Quals) | [pwn01](WhiteHatGrandPrix/2020/Quals/pwn01) | [CTFtime Event](https://ctftime.org/event/) |
+| [WhiteHat 2020 Quals](WhiteHat/2020/Quals) | [pwn02](WhiteHat/2020/Quals/pwn02) | [CTFtime Event](https://ctftime.org/event/) |
+| [WhiteHat 2020 Quals](WhiteHat/2020/Quals) | [pwn01](WhiteHat/2020/Quals/pwn01) | [CTFtime Event](https://ctftime.org/event/) |
 | [VolgaCTF 2020](VolgaCTF/2020) | [Notepad](VolgaCTF/2020/Notepad) | [CTFtime Event](https://ctftime.org/event/) |
 | [VirSecCon 2020](VirSecCon/2020) | [ShoppingList](VirSecCon/2020/ShoppingList) | [CTFtime Event](https://ctftime.org/event/) |
 | [VirSecCon 2020](VirSecCon/2020) | [SeedSpring](VirSecCon/2020/SeedSpring) | [CTFtime Event](https://ctftime.org/event/) |
@@ -505,9 +505,9 @@
 | [XMAS 2018](XMAS/2018) | [Pinkie_Gift](XMAS/2018/Pinkie_Gift) | [CTFtime Event](https://ctftime.org/event/) |
 | [XMAS 2018](XMAS/2018) | [I_want_that_toy](XMAS/2018/I_want_that_toy) | [CTFtime Event](https://ctftime.org/event/) |
 | [XMAS 2018](XMAS/2018) | [Greetings_from_Santa](XMAS/2018/Greetings_from_Santa) | [CTFtime Event](https://ctftime.org/event/) |
-| [WhiteHatGrandPrix 2018 Quals](WhiteHatGrandPrix/2018/Quals) | [pwn03](WhiteHatGrandPrix/2018/Quals/pwn03) | [CTFtime Event](https://ctftime.org/event/) |
-| [WhiteHatGrandPrix 2018 Quals](WhiteHatGrandPrix/2018/Quals) | [pwn02](WhiteHatGrandPrix/2018/Quals/pwn02) | [CTFtime Event](https://ctftime.org/event/) |
-| [WhiteHatGrandPrix 2018 Quals](WhiteHatGrandPrix/2018/Quals) | [pwn01](WhiteHatGrandPrix/2018/Quals/pwn01) | [CTFtime Event](https://ctftime.org/event/) |
+| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn03](WhiteHat/2018/Quals/pwn03) | [CTFtime Event](https://ctftime.org/event/) |
+| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn02](WhiteHat/2018/Quals/pwn02) | [CTFtime Event](https://ctftime.org/event/) |
+| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn01](WhiteHat/2018/Quals/pwn01) | [CTFtime Event](https://ctftime.org/event/) |
 | [WPICTF 2018](WPICTF/2018) | [penguin](WPICTF/2018/penguin) | [CTFtime Event](https://ctftime.org/event/) |
 | [WPICTF 2018](WPICTF/2018) | [login](WPICTF/2018/login) | [CTFtime Event](https://ctftime.org/event/) |
 | [WPICTF 2018](WPICTF/2018) | [kerning](WPICTF/2018/kerning) | [CTFtime Event](https://ctftime.org/event/) |
