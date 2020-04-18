@@ -1,5 +1,6 @@
 | CTF                        | Challenge   | Info         |
 |:--------------------------:|:-----------:|--------------|
+| [PlaidCTF 2020](PlaidCTF/2020)<br>([CTFtime](https://ctftime.org/event/936)) | [EmojiDB](PlaidCTF/2020/EmojiDB) | |
 | [PlaidCTF 2020](PlaidCTF/2020)<br>([CTFtime](https://ctftime.org/event/936)) | [ipppc](PlaidCTF/2020/ipppc) | |
 | [WPICTF 2020](WPICTF/2020)<br>([CTFtime](https://ctftime.org/event/913)) | [dontatme](WPICTF/2020/dontatme) | |
 | [WPICTF 2020](WPICTF/2020)<br>([CTFtime](https://ctftime.org/event/913)) | [dorsia3](WPICTF/2020/dorsia3) | |
