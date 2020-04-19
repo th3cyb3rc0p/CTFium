@@ -612,11 +612,11 @@
 | [N1CTF 2018](N1CTF/2018) | [network_card](N1CTF/2018/network_card) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [N1CTF 2018](N1CTF/2018) | [memsafety](N1CTF/2018/memsafety) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [N1CTF 2018](N1CTF/2018) | [beeper](N1CTF/2018/beeper) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [MeePwn 2018](MeePwn/2018) | [SecureMessage](MeePwn/2018/SecureMessage) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [MeePwn 2018](MeePwn/2018) | [One_Shot](MeePwn/2018/One_Shot) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [MeePwn 2018](MeePwn/2018) | [House_Of_Card](MeePwn/2018/House_Of_Card) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [MeePwn 2018](MeePwn/2018) | [Coin](MeePwn/2018/Coin) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [MeePwn 2018](MeePwn/2018) | [BabySandbox](MeePwn/2018/BabySandbox) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [MeePwn 2018 Quals](MeePwn/2018/Quals) | [SecureMessage](MeePwn/2018/Quals/SecureMessage) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [MeePwn 2018 Quals](MeePwn/2018/Quals) | [One_Shot](MeePwn/2018/Quals/One_Shot) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [MeePwn 2018 Quals](MeePwn/2018/Quals) | [House_Of_Card](MeePwn/2018/Quals/House_Of_Card) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [MeePwn 2018 Quals](MeePwn/2018/Quals) | [Coin](MeePwn/2018/Quals/Coin) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [MeePwn 2018 Quals](MeePwn/2018/Quals) | [babysandbox](MeePwn/2018/Quals/babysandbox) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [KasperskyCTF 2018](KasperskyCTF/2018) | [modcontroller](KasperskyCTF/2018/modcontroller) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [KasperskyCTF 2018](KasperskyCTF/2018) | [doubles](KasperskyCTF/2018/doubles) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [InCTF 2018](InCTF/2018) | [wARMup](InCTF/2018/wARMup) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -630,10 +630,10 @@
 | [ISITDTU 2018 Quals](ISITDTU/2018/Quals) | [dead_note_lv2](ISITDTU/2018/Quals/dead_note_lv2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [ISITDTU 2018 Quals](ISITDTU/2018/Quals) | [dead_note_lv1](ISITDTU/2018/Quals/dead_note_lv1) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [ISITDTU 2018 Quals](ISITDTU/2018/Quals) | [babyformat](ISITDTU/2018/Quals/babyformat) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [ICTF 2018](ICTF/2018) | [shelter](ICTF/2018/shelter) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [ICTF 2018](ICTF/2018) | [marvelous](ICTF/2018/marvelous) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [ICTF 2018](ICTF/2018) | [hero_text_adventure](ICTF/2018/hero_text_adventure) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [ICTF 2018](ICTF/2018) | [fantasticiot](ICTF/2018/fantasticiot) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [iCTF 2018](iCTF/2018) | [shelter](iCTF/2018/shelter) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [iCTF 2018](iCTF/2018) | [marvelous](iCTF/2018/marvelous) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [iCTF 2018](iCTF/2018) | [hero_text_adventure](iCTF/2018/hero_text_adventure) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [iCTF 2018](iCTF/2018) | [fantasticiot](iCTF/2018/fantasticiot) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Harekaze 2018](Harekaze/2018) | [harekaze_farm](Harekaze/2018/harekaze_farm) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Harekaze 2018](Harekaze/2018) | [flea_attack.elf](Harekaze/2018/flea_attack.elf) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Harekaze 2018](Harekaze/2018) | [alnush](Harekaze/2018/alnush) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -642,6 +642,7 @@
 | [HackCon 2018](HackCon/2018) | [SimpleYetElegent](HackCon/2018/SimpleYetElegent) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HackCon 2018](HackCon/2018) | [SheSellsSeaShells](HackCon/2018/SheSellsSeaShells) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HackCon 2018](HackCon/2018) | [BOF](HackCon/2018/BOF) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [Hack.lu 2018](Hack.lu/2018) | [babyphp](Hack.lu/2018/babyphp) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Hack.lu 2018](Hack.lu/2018) | [slot_machine](Hack.lu/2018/slot_machine) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Hack.lu 2018](Hack.lu/2018) | [heap_hell](Hack.lu/2018/heap_hell) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Hack.lu 2018](Hack.lu/2018) | [heap_heaven_2](Hack.lu/2018/heap_heaven_2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -686,7 +687,7 @@
 | [Codegate 2018](Codegate/2018) | [droid.apk](Codegate/2018/droid.apk) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Codegate 2018](Codegate/2018) | [cpu](Codegate/2018/cpu) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Codegate 2018](Codegate/2018) | [Zoo](Codegate/2018/Zoo) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [Codegate 2018](Codegate/2018) | [Super_Marimo](Codegate/2018/Super_Marimo) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [Codegate 2018](Codegate/2018) | [super_marimo](Codegate/2018/super_marimo) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Codegate 2018](Codegate/2018) | [RedVelvet](Codegate/2018/RedVelvet) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Codegate 2018](Codegate/2018) | [Melong](Codegate/2018/Melong) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Codegate 2018](Codegate/2018) | [Boom](Codegate/2018/Boom) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -752,8 +753,8 @@
 | [0CTF 2018 Quals](0CTF/2018/Quals) | [MathGame](0CTF/2018/Quals/MathGame) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [0CTF 2018 Quals](0CTF/2018/Quals) | [HeapStormII](0CTF/2018/Quals/HeapStormII) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [0CTF 2018 Quals](0CTF/2018/Quals) | [BlackHoleTheory](0CTF/2018/Quals/BlackHoleTheory) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [BabyStack](0CTF/2018/Quals/BabyStack) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [BabyHeap](0CTF/2018/Quals/BabyHeap) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [0CTF 2018 Quals](0CTF/2018/Quals) | [babystack](0CTF/2018/Quals/babystack) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [0CTF 2018 Quals](0CTF/2018/Quals) | [babyheap](0CTF/2018/Quals/babyheap) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [0CTF 2018 Finals](0CTF/2018/Finals) | [vtp](0CTF/2018/Finals/vtp) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [0CTF 2018 Finals](0CTF/2018/Finals) | [pemu](0CTF/2018/Finals/pemu) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [0CTF 2018 Finals](0CTF/2018/Finals) | [keen_of_glory](0CTF/2018/Finals/keen_of_glory) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
