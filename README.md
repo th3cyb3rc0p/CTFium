@@ -584,8 +584,8 @@
 | [RCTF 2018](RCTF/2018) | [sign](RCTF/2018/sign) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [RCTF 2018](RCTF/2018) | [set-clock](RCTF/2018/set-clock) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [RCTF 2018](RCTF/2018) | [babyheap](RCTF/2018/babyheap) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [RCTF 2018](RCTF/2018) | [Rnote4](RCTF/2018/Rnote4) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [RCTF 2018](RCTF/2018) | [Rnote3](RCTF/2018/Rnote3) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [RCTF 2018](RCTF/2018) | [rnote4](RCTF/2018/rnote4) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [RCTF 2018](RCTF/2018) | [rnote3](RCTF/2018/rnote3) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Pwn2Win 2018](Pwn2Win/2018) | [TPM20](Pwn2Win/2018/TPM20) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Pwn2Win 2018](Pwn2Win/2018) | [SuperStorage](Pwn2Win/2018/SuperStorage) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [Pwn2Win 2018](Pwn2Win/2018) | [Minishell](Pwn2Win/2018/Minishell) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
