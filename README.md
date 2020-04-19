@@ -1,12 +1,12 @@
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
-| [UMDCTF 2020](UMDCTF/2020) | [CaaS](UMDCTF/2020/CaaS) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [UMDCTF 2020](UMDCTF/2020) | [CoalMiner](UMDCTF/2020/CoalMiner) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [UMDCTF 2020](UMDCTF/2020) | [Crypto](UMDCTF/2020/Crypto) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [UMDCTF 2020](UMDCTF/2020) | [EasyRight](UMDCTF/2020/EasyRight) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [UMDCTF 2020](UMDCTF/2020) | [JumpNotFound](UMDCTF/2020/JumpNotFound) | [CTFtime Event](https://ctftime.org/event/1040) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [UMDCTF 2020](UMDCTF/2020) | [caas](UMDCTF/2020/caas) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [UMDCTF 2020](UMDCTF/2020) | [coalminer](UMDCTF/2020/coalminer) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [UMDCTF 2020](UMDCTF/2020) | [crypto](UMDCTF/2020/crypto) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [UMDCTF 2020](UMDCTF/2020) | [easy_right](UMDCTF/2020/easy_right) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [UMDCTF 2020](UMDCTF/2020) | [jump_not_found](UMDCTF/2020/jump_not_found) | [CTFtime Event](https://ctftime.org/event/1040) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [back_to_the_future](PlaidCTF/2020/back_to_the_future) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [PlaidCTF 2020](PlaidCTF/2020) | [EmojiDB](PlaidCTF/2020/EmojiDB) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [PlaidCTF 2020](PlaidCTF/2020) | [emojidb](PlaidCTF/2020/emojidb) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [ipppc](PlaidCTF/2020/ipppc) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [mojo](PlaidCTF/2020/mojo) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [sandybox](PlaidCTF/2020/sandybox) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
