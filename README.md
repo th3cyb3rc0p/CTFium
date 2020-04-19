@@ -429,13 +429,13 @@
 | [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [regfuck](ChaosCommunicationCamp/2019/regfuck) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [pwning_your_kernelz](ChaosCommunicationCamp/2019/pwning_your_kernelz) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [hsmprototype](ChaosCommunicationCamp/2019/hsmprototype) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [travller](CSAW/2019/travller) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [small_boi](CSAW/2019/small_boi) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [popping_caps2](CSAW/2019/popping_caps2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [popping_caps](CSAW/2019/popping_caps) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [gotmilk](CSAW/2019/gotmilk) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [baby_boi](CSAW/2019/baby_boi) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2019](CSAW/2019) | [PopGoesThePrinter](CSAW/2019/PopGoesThePrinter) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [travller](CSAW/2019/Quals/travller) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [small_boi](CSAW/2019/Quals/small_boi) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [popping_caps2](CSAW/2019/Quals/popping_caps2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [popping_caps](CSAW/2019/Quals/popping_caps) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [gotmilk](CSAW/2019/Quals/gotmilk) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [baby_boi](CSAW/2019/Quals/baby_boi) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [PopGoesThePrinter](CSAW/2019/Quals/PopGoesThePrinter) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2019](C3CTF/2019) | [splitcode](C3CTF/2019/splitcode) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2019](C3CTF/2019) | [sicher](C3CTF/2019/sicher) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2019](C3CTF/2019) | [poor_canary](C3CTF/2019/poor_canary) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -706,15 +706,15 @@
 | [CTFZone 2018 Quals](CTFZone/2018/Quals) | [FederationWorkflowSystem](CTFZone/2018/Quals/FederationWorkflowSystem) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [CTFZone 2018 Quals](CTFZone/2018/Quals) | [EZPZ_CRKMEE](CTFZone/2018/Quals/EZPZ_CRKMEE) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [CTFZone 2018 Quals](CTFZone/2018/Quals) | [BuggyPWN](CTFZone/2018/Quals/BuggyPWN) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [turtles](CSAW/2018/turtles) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [shell_code](CSAW/2018/shell_code) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [kvm](CSAW/2018/kvm) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [get_it](CSAW/2018/get_it) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [doubletrouble](CSAW/2018/doubletrouble) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [bigboy](CSAW/2018/bigboy) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [alien_invasion](CSAW/2018/alien_invasion) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [ATourofx86-Part2](CSAW/2018/ATourofx86-Part2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2018](CSAW/2018) | [ATourofx86-Part1](CSAW/2018/ATourofx86-Part1) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [turtles](CSAW/2018/Quals/turtles) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [shell_code](CSAW/2018/Quals/shell_code) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [kvm](CSAW/2018/Quals/kvm) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [get_it](CSAW/2018/Quals/get_it) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [doubletrouble](CSAW/2018/Quals/doubletrouble) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [bigboy](CSAW/2018/Quals/bigboy) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [alien_invasion](CSAW/2018/Quals/alien_invasion) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [ATourofx86-Part2](CSAW/2018/Quals/ATourofx86-Part2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2018 Quals](CSAW/2018/Quals) | [ATourofx86-Part1](CSAW/2018/Quals/ATourofx86-Part1) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2018](C3CTF/2018) | [pillow](C3CTF/2018/pillow) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2018](C3CTF/2018) | [namespaces](C3CTF/2018/namespaces) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2018](C3CTF/2018) | [krautflare](C3CTF/2018/krautflare) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -791,14 +791,14 @@
 | [HITCON 2017](HITCON/2017) | [bigLITTLE](HITCON/2017/bigLITTLE) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HITCON 2017](HITCON/2017) | [babyfs](HITCON/2017/babyfs) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HITCON 2017](HITCON/2017) | [artifact](HITCON/2017/artifact) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [zone](CSAW/2017/zone) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [scv](CSAW/2017/scv) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [prophecy](CSAW/2017/prophecy) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [pilot](CSAW/2017/pilot) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [minesweeper](CSAW/2017/minesweeper) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [grumpcheck](CSAW/2017/grumpcheck) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [gopherz](CSAW/2017/gopherz) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [CSAW 2017](CSAW/2017) | [auir](CSAW/2017/auir) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [zone](CSAW/2017/Quals/zone) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [scv](CSAW/2017/Quals/scv) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [prophecy](CSAW/2017/Quals/prophecy) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [pilot](CSAW/2017/Quals/pilot) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [minesweeper](CSAW/2017/Quals/minesweeper) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [grumpcheck](CSAW/2017/Quals/grumpcheck) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [gopherz](CSAW/2017/Quals/gopherz) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [CSAW 2017 Quals](CSAW/2017/Quals) | [auir](CSAW/2017/Quals/auir) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2017](C3CTF/2017) | [readme-revenge](C3CTF/2017/readme-revenge) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2017](C3CTF/2017) | [primepwn_files](C3CTF/2017/primepwn_files) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [C3CTF 2017](C3CTF/2017) | [m0rph](C3CTF/2017/m0rph) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
