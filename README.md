@@ -2,6 +2,21 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [IJCTF 2020](IJCTF/2020) | [built_in_http](IJCTF/2020/built_in_http) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [input_checker](IJCTF/2020/input_checker) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [admin](IJCTF/2020/admin) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [babyheap](IJCTF/2020/babyheap) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [super_mario](IJCTF/2020/super_mario) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [corrupted_maps](IJCTF/2020/corrupted_maps) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [tamrof](IJCTF/2020/tamrof) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [pwnX0r](IJCTF/2020/pwnX0r) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [SecretCode](IJCTF/2020/SecretCode) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [OS](IJCTF/2020/OS) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [Finance](IJCTF/2020/Finance) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [Chocolate](IJCTF/2020/Chocolate) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [Boiboi](IJCTF/2020/Boiboi) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [Baby_bof_2](IJCTF/2020/Baby_bof_2) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [IJCTF 2020](IJCTF/2020) | [Baby_bof](IJCTF/2020/Baby_bof) | [CTFtime Event](https://ctftime.org/event/1003)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [caas](UMDCTF/2020/caas) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [coalminer](UMDCTF/2020/coalminer) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [crypto](UMDCTF/2020/crypto) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
@@ -79,15 +94,6 @@ Collection of CTF pwn challenges.
 | [Securinets 2020 Quals](Securinets/2020/Quals) | [CONTROL](Securinets/2020/Quals/CONTROL) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [MidnightSun 2020 Quals](MidnightSun/2020/Quals) | [Admpanel2](MidnightSun/2020/Quals/Admpanel2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [MidnightSun 2020 Quals](MidnightSun/2020/Quals) | [Admpanel](MidnightSun/2020/Quals/Admpanel) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [tamrof](IJCTF/2020/tamrof) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [pwnX0r](IJCTF/2020/pwnX0r) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [SecretCode](IJCTF/2020/SecretCode) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [OS](IJCTF/2020/OS) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [Finance](IJCTF/2020/Finance) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [Chocolate](IJCTF/2020/Chocolate) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [Boiboi](IJCTF/2020/Boiboi) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [Baby_bof_2](IJCTF/2020/Baby_bof_2) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [IJCTF 2020](IJCTF/2020) | [Baby_bof](IJCTF/2020/Baby_bof) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HexionCTF 2020](HexionCTF/2020) | [WWW](HexionCTF/2020/WWW) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HexionCTF 2020](HexionCTF/2020) | [TicTacToe](HexionCTF/2020/TicTacToe) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [HexionCTF 2020](HexionCTF/2020) | [TextDecorator](HexionCTF/2020/TextDecorator) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
