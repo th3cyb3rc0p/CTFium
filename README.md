@@ -21,7 +21,7 @@ Collection of CTF pwn challenges.
 | [UMDCTF 2020](UMDCTF/2020) | [coalminer](UMDCTF/2020/coalminer) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [crypto](UMDCTF/2020/crypto) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [UMDCTF 2020](UMDCTF/2020) | [easy_right](UMDCTF/2020/easy_right) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
-| [UMDCTF 2020](UMDCTF/2020) | [jump_not_found](UMDCTF/2020/jump_not_found) | [CTFtime Event](https://ctftime.org/event/1040) | [CTFtime Event](https://ctftime.org/event/)<br>[CTFtime Writeups](https://ctftime.org/task/) |
+| [UMDCTF 2020](UMDCTF/2020) | [jump_not_found](UMDCTF/2020/jump_not_found) | [CTFtime Event](https://ctftime.org/event/1040)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [back_to_the_future](PlaidCTF/2020/back_to_the_future) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [emojidb](PlaidCTF/2020/emojidb) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
 | [PlaidCTF 2020](PlaidCTF/2020) | [ipppc](PlaidCTF/2020/ipppc) | [CTFtime Event](https://ctftime.org/event/936)<br>[CTFtime Writeups](https://ctftime.org/task/) |
