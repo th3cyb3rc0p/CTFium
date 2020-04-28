@@ -304,248 +304,248 @@ Collection of CTF pwn challenges.
 | [RealWorldCTF 2019 Quals](RealWorldCTF/2019/Quals) | [Dezhou_Instrumentz](RealWorldCTF/2019/Quals/Dezhou_Instrumentz) | [CTFtime](https://ctftime.org/event/841) |
 | [RealWorldCTF 2019 Quals](RealWorldCTF/2019/Quals) | [Appetizer](RealWorldCTF/2019/Quals/Appetizer) | [CTFtime](https://ctftime.org/event/841) |
 | [RealWorldCTF 2019 Quals](RealWorldCTF/2019/Quals) | [Across_the_Great_Wall](RealWorldCTF/2019/Quals/Across_the_Great_Wall) | [CTFtime](https://ctftime.org/event/841) |
-| [RITSEC 2019](RITSEC/2019) | [jit-calc](RITSEC/2019/jit-calc) | [CTFtime](https://ctftime.org/event/) |
-| [RCTF 2019](RCTF/2019) | [syscall_interface](RCTF/2019/syscall_interface) | [CTFtime](https://ctftime.org/event/) |
-| [RCTF 2019](RCTF/2019) | [shellcoder](RCTF/2019/shellcoder) | [CTFtime](https://ctftime.org/event/) |
-| [RCTF 2019](RCTF/2019) | [chat](RCTF/2019/chat) | [CTFtime](https://ctftime.org/event/) |
-| [RCTF 2019](RCTF/2019) | [babyheap](RCTF/2019/babyheap) | [CTFtime](https://ctftime.org/event/) |
-| [RCTF 2019](RCTF/2019) | [ManyNotes](RCTF/2019/ManyNotes) | [CTFtime](https://ctftime.org/event/) |
-| [PwnThyBytes 2019](PwnThyBytes/2019) | [HeapSchool666](PwnThyBytes/2019/HeapSchool666) | [CTFtime](https://ctftime.org/event/) |
-| [PwnThyBytes 2019](PwnThyBytes/2019) | [Dystopia](PwnThyBytes/2019/Dystopia) | [CTFtime](https://ctftime.org/event/) |
-| [PwnThyBytes 2019](PwnThyBytes/2019) | [BabyFactory](PwnThyBytes/2019/BabyFactory) | [CTFtime](https://ctftime.org/event/) |
-| [PwnThyBytes 2019](PwnThyBytes/2019) | [Ace_of_Spades](PwnThyBytes/2019/Ace_of_Spades) | [CTFtime](https://ctftime.org/event/) |
-| [Pwn2Win 2019](Pwn2Win/2019) | [random_vault](Pwn2Win/2019/random_vault) | [CTFtime](https://ctftime.org/event/) |
-| [Pwn2Win 2019](Pwn2Win/2019) | [full_troll](Pwn2Win/2019/full_troll) | [CTFtime](https://ctftime.org/event/) |
-| [Pragyan 2019](Pragyan/2019) | [SuperSecureVault](Pragyan/2019/SuperSecureVault) | [CTFtime](https://ctftime.org/event/) |
-| [Pragyan 2019](Pragyan/2019) | [SecretKeeper](Pragyan/2019/SecretKeeper) | [CTFtime](https://ctftime.org/event/) |
-| [Pragyan 2019](Pragyan/2019) | [Feed_me](Pragyan/2019/Feed_me) | [CTFtime](https://ctftime.org/event/) |
-| [Pragyan 2019](Pragyan/2019) | [Armoury](Pragyan/2019/Armoury) | [CTFtime](https://ctftime.org/event/) |
-| [PlaidCTF 2019](PlaidCTF/2019) | [Suffarring](PlaidCTF/2019/Suffarring) | [CTFtime](https://ctftime.org/event/) |
-| [PlaidCTF 2019](PlaidCTF/2019) | [Spectre](PlaidCTF/2019/Spectre) | [CTFtime](https://ctftime.org/event/) |
-| [PlaidCTF 2019](PlaidCTF/2019) | [SPlaid_Birch](PlaidCTF/2019/SPlaid_Birch) | [CTFtime](https://ctftime.org/event/) |
-| [NullconHackIM 2019](NullconHackIM/2019) | [tudutudututu](NullconHackIM/2019/tudutudututu) | [CTFtime](https://ctftime.org/event/) |
-| [NullconHackIM 2019](NullconHackIM/2019) | [peasy-shell](NullconHackIM/2019/peasy-shell) | [CTFtime](https://ctftime.org/event/) |
-| [NullconHackIM 2019](NullconHackIM/2019) | [easy-shell](NullconHackIM/2019/easy-shell) | [CTFtime](https://ctftime.org/event/) |
-| [NullconHackIM 2019](NullconHackIM/2019) | [babypwn](NullconHackIM/2019/babypwn) | [CTFtime](https://ctftime.org/event/) |
-| [NullconHackIM 2019](NullconHackIM/2019) | [HackIMShop](NullconHackIM/2019/HackIMShop) | [CTFtime](https://ctftime.org/event/) |
-| [N1CTF 2019](N1CTF/2019) | [warmup](N1CTF/2019/warmup) | [CTFtime](https://ctftime.org/event/) |
-| [N1CTF 2019](N1CTF/2019) | [babykernel](N1CTF/2019/babykernel) | [CTFtime](https://ctftime.org/event/) |
-| [N1CTF 2019](N1CTF/2019) | [Part5-typechecker](N1CTF/2019/Part5-typechecker) | [CTFtime](https://ctftime.org/event/) |
-| [N1CTF 2019](N1CTF/2019) | [Line](N1CTF/2019/Line) | [CTFtime](https://ctftime.org/event/) |
-| [N1CTF 2019](N1CTF/2019) | [BabyPwn](N1CTF/2019/BabyPwn) | [CTFtime](https://ctftime.org/event/) |
-| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Hfsipc](MidnightSun/2019/Quals/Hfsipc) | [CTFtime](https://ctftime.org/event/) |
-| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Hfs-vm2](MidnightSun/2019/Quals/Hfs-vm2) | [CTFtime](https://ctftime.org/event/) |
-| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Hfs-dos](MidnightSun/2019/Quals/Hfs-dos) | [CTFtime](https://ctftime.org/event/) |
-| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Gissa2](MidnightSun/2019/Quals/Gissa2) | [CTFtime](https://ctftime.org/event/) |
-| [Layer7 2019](Layer7/2019) | [sha1breaker](Layer7/2019/sha1breaker) | [CTFtime](https://ctftime.org/event/) |
-| [Layer7 2019](Layer7/2019) | [pwnning_interpreter](Layer7/2019/pwnning_interpreter) | [CTFtime](https://ctftime.org/event/) |
-| [Layer7 2019](Layer7/2019) | [math_board](Layer7/2019/math_board) | [CTFtime](https://ctftime.org/event/) |
-| [Layer7 2019](Layer7/2019) | [how_old_are_you](Layer7/2019/how_old_are_you) | [CTFtime](https://ctftime.org/event/) |
-| [Layer7 2019](Layer7/2019) | [Angel-in-us](Layer7/2019/Angel-in-us) | [CTFtime](https://ctftime.org/event/) |
-| [KipodAfterFree 2019](KipodAfterFree/2019) | [YumYumCarrot](KipodAfterFree/2019/YumYumCarrot) | [CTFtime](https://ctftime.org/event/) |
-| [KipodAfterFree 2019](KipodAfterFree/2019) | [Simple_Authorizer](KipodAfterFree/2019/Simple_Authorizer) | [CTFtime](https://ctftime.org/event/) |
-| [KipodAfterFree 2019](KipodAfterFree/2019) | [CookShow](KipodAfterFree/2019/CookShow) | [CTFtime](https://ctftime.org/event/) |
-| [KipodAfterFree 2019](KipodAfterFree/2019) | [Contracts](KipodAfterFree/2019/Contracts) | [CTFtime](https://ctftime.org/event/) |
-| [KipodAfterFree 2019](KipodAfterFree/2019) | [CloneWarS](KipodAfterFree/2019/CloneWarS) | [CTFtime](https://ctftime.org/event/) |
-| [InsomniHackTeaser 2019](InsomniHackTeaser/2019) | [onewrite](InsomniHackTeaser/2019/onewrite) | [CTFtime](https://ctftime.org/event/) |
-| [InsomniHackTeaser 2019](InsomniHackTeaser/2019) | [nyanc](InsomniHackTeaser/2019/nyanc) | [CTFtime](https://ctftime.org/event/) |
-| [InCTF 2019](InCTF/2019) | [schmaltz](InCTF/2019/schmaltz) | [CTFtime](https://ctftime.org/event/) |
-| [InCTF 2019](InCTF/2019) | [pwnbox](InCTF/2019/pwnbox) | [CTFtime](https://ctftime.org/event/) |
-| [InCTF 2019](InCTF/2019) | [navarint](InCTF/2019/navarint) | [CTFtime](https://ctftime.org/event/) |
-| [InCTF 2019](InCTF/2019) | [ateles](InCTF/2019/ateles) | [CTFtime](https://ctftime.org/event/) |
-| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [tokenizer](ISITDTU/2019/Quals/tokenizer) | [CTFtime](https://ctftime.org/event/) |
-| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [prisonbreak](ISITDTU/2019/Quals/prisonbreak) | [CTFtime](https://ctftime.org/event/) |
-| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [iz_heap_lv2](ISITDTU/2019/Quals/iz_heap_lv2) | [CTFtime](https://ctftime.org/event/) |
-| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [iz_heap_lv1](ISITDTU/2019/Quals/iz_heap_lv1) | [CTFtime](https://ctftime.org/event/) |
-| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [babyshellcode](ISITDTU/2019/Quals/babyshellcode) | [CTFtime](https://ctftime.org/event/) |
-| [INShAck 2019](INShAck/2019) | [signed_or_not_signed](INShAck/2019/signed_or_not_signed) | [CTFtime](https://ctftime.org/event/) |
-| [INShAck 2019](INShAck/2019) | [ropberry](INShAck/2019/ropberry) | [CTFtime](https://ctftime.org/event/) |
-| [INShAck 2019](INShAck/2019) | [intergover](INShAck/2019/intergover) | [CTFtime](https://ctftime.org/event/) |
-| [INShAck 2019](INShAck/2019) | [gimme-your-shell](INShAck/2019/gimme-your-shell) | [CTFtime](https://ctftime.org/event/) |
-| [Harekaze 2019](Harekaze/2019) | [Ramen](Harekaze/2019/Ramen) | [CTFtime](https://ctftime.org/event/) |
-| [Harekaze 2019](Harekaze/2019) | [LoginSystem](Harekaze/2019/LoginSystem) | [CTFtime](https://ctftime.org/event/) |
-| [Harekaze 2019](Harekaze/2019) | [HarekazeNote](Harekaze/2019/HarekazeNote) | [CTFtime](https://ctftime.org/event/) |
-| [Harekaze 2019](Harekaze/2019) | [BabyROP2](Harekaze/2019/BabyROP2) | [CTFtime](https://ctftime.org/event/) |
-| [Harekaze 2019](Harekaze/2019) | [BabyROP](Harekaze/2019/BabyROP) | [CTFtime](https://ctftime.org/event/) |
-| [Hack.lu 2019](Hack.lu/2019) | [teen_kernel](Hack.lu/2019/teen_kernel) | [CTFtime](https://ctftime.org/event/) |
-| [Hack.lu 2019](Hack.lu/2019) | [tcalc](Hack.lu/2019/tcalc) | [CTFtime](https://ctftime.org/event/) |
-| [Hack.lu 2019](Hack.lu/2019) | [schnurtelefon](Hack.lu/2019/schnurtelefon) | [CTFtime](https://ctftime.org/event/) |
-| [Hack.lu 2019](Hack.lu/2019) | [no_risc_no_future](Hack.lu/2019/no_risc_no_future) | [CTFtime](https://ctftime.org/event/) |
-| [Hack.lu 2019](Hack.lu/2019) | [contiki-ng](Hack.lu/2019/contiki-ng) | [CTFtime](https://ctftime.org/event/) |
-| [Hack.lu 2019](Hack.lu/2019) | [chat](Hack.lu/2019/chat) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Storytime](HSCTF/2019/Storytime) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Return_to_Sender](HSCTF/2019/Return_to_Sender) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Hard_Heap](HSCTF/2019/Hard_Heap) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Combo_Chain_Lite](HSCTF/2019/Combo_Chain_Lite) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Combo_Chain](HSCTF/2019/Combo_Chain) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Caesars_Revenge](HSCTF/2019/Caesars_Revenge) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Byte](HSCTF/2019/Byte) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Bit](HSCTF/2019/Bit) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Aria_Writer_v3](HSCTF/2019/Aria_Writer_v3) | [CTFtime](https://ctftime.org/event/) |
-| [HSCTF 2019](HSCTF/2019) | [Aria_Writer](HSCTF/2019/Aria_Writer) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [trick_or_treat](HITCON/2019/trick_or_treat) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [one_punch](HITCON/2019/one_punch) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [netatalk](HITCON/2019/netatalk) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [lazyhouse](HITCON/2019/lazyhouse) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [dadadb](HITCON/2019/dadadb) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [cryptoshell](HITCON/2019/cryptoshell) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [breathofshadow](HITCON/2019/breathofshadow) | [CTFtime](https://ctftime.org/event/) |
-| [HITCON 2019](HITCON/2019) | [PoEI-Luna](HITCON/2019/PoEI-Luna) | [CTFtime](https://ctftime.org/event/) |
-| [GoogleCTF 2019 Quals](GoogleCTF/2019/Quals) | [secureboot](GoogleCTF/2019/Quals/secureboot) | [CTFtime](https://ctftime.org/event/) |
-| [GoogleCTF 2019 Quals](GoogleCTF/2019/Quals) | [regex](GoogleCTF/2019/Quals/regex) | [CTFtime](https://ctftime.org/event/) |
-| [GoogleCTF 2019 Quals](GoogleCTF/2019/Quals) | [jit](GoogleCTF/2019/Quals/jit) | [CTFtime](https://ctftime.org/event/) |
-| [FireShell 2019](FireShell/2019) | [quotes_list](FireShell/2019/quotes_list) | [CTFtime](https://ctftime.org/event/) |
-| [FireShell 2019](FireShell/2019) | [leakless](FireShell/2019/leakless) | [CTFtime](https://ctftime.org/event/) |
-| [FireShell 2019](FireShell/2019) | [casino](FireShell/2019/casino) | [CTFtime](https://ctftime.org/event/) |
-| [FireShell 2019](FireShell/2019) | [babyheap](FireShell/2019/babyheap) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [rusty_shop](FacebookCTF/2019/rusty_shop) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [rank](FacebookCTF/2019/rank) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [raddest_db](FacebookCTF/2019/raddest_db) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [overfloat](FacebookCTF/2019/overfloat) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [otp_server](FacebookCTF/2019/otp_server) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [kpets](FacebookCTF/2019/kpets) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [babylist](FacebookCTF/2019/babylist) | [CTFtime](https://ctftime.org/event/) |
-| [FacebookCTF 2019](FacebookCTF/2019) | [asciishop](FacebookCTF/2019/asciishop) | [CTFtime](https://ctftime.org/event/) |
-| [De1CTF 2019](De1CTF/2019) | [Weapon](De1CTF/2019/Weapon) | [CTFtime](https://ctftime.org/event/) |
-| [De1CTF 2019](De1CTF/2019) | [Unprintable](De1CTF/2019/Unprintable) | [CTFtime](https://ctftime.org/event/) |
-| [De1CTF 2019](De1CTF/2019) | [Race](De1CTF/2019/Race) | [CTFtime](https://ctftime.org/event/) |
-| [De1CTF 2019](De1CTF/2019) | [Mimic_note](De1CTF/2019/Mimic_note) | [CTFtime](https://ctftime.org/event/) |
-| [De1CTF 2019](De1CTF/2019) | [BabyRust](De1CTF/2019/BabyRust) | [CTFtime](https://ctftime.org/event/) |
-| [De1CTF 2019](De1CTF/2019) | [ABJudge](De1CTF/2019/ABJudge) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [vitor](DEFCON/2019/Quals/vitor) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-012](DEFCON/2019/Quals/speedrun-012) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-011](DEFCON/2019/Quals/speedrun-011) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-010](DEFCON/2019/Quals/speedrun-010) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-009](DEFCON/2019/Quals/speedrun-009) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-008](DEFCON/2019/Quals/speedrun-008) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-007](DEFCON/2019/Quals/speedrun-007) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-006](DEFCON/2019/Quals/speedrun-006) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-005](DEFCON/2019/Quals/speedrun-005) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-004](DEFCON/2019/Quals/speedrun-004) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-003](DEFCON/2019/Quals/speedrun-003) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-002](DEFCON/2019/Quals/speedrun-002) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-001](DEFCON/2019/Quals/speedrun-001) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [shitorrent](DEFCON/2019/Quals/shitorrent) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [election_coin](DEFCON/2019/Quals/election_coin) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [babyheap](DEFCON/2019/Quals/babyheap) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [VeryAndroidoso](DEFCON/2019/Quals/VeryAndroidoso) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [RTOoOS](DEFCON/2019/Quals/RTOoOS) | [CTFtime](https://ctftime.org/event/) |
-| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [Hotel-California](DEFCON/2019/Quals/Hotel-California) | [CTFtime](https://ctftime.org/event/) |
-| [Codegate 2019 Quals](Codegate/2019/Quals) | [cg_casino](Codegate/2019/Quals/cg_casino) | [CTFtime](https://ctftime.org/event/) |
-| [Codegate 2019 Quals](Codegate/2019/Quals) | [KingMaker](Codegate/2019/Quals/KingMaker) | [CTFtime](https://ctftime.org/event/) |
-| [Codegate 2019 Quals](Codegate/2019/Quals) | [20000](Codegate/2019/Quals/20000) | [CTFtime](https://ctftime.org/event/) |
-| [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [regfuck](ChaosCommunicationCamp/2019/regfuck) | [CTFtime](https://ctftime.org/event/) |
-| [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [pwning_your_kernelz](ChaosCommunicationCamp/2019/pwning_your_kernelz) | [CTFtime](https://ctftime.org/event/) |
-| [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [hsmprototype](ChaosCommunicationCamp/2019/hsmprototype) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [travller](CSAW/2019/Quals/travller) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [small_boi](CSAW/2019/Quals/small_boi) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [popping_caps2](CSAW/2019/Quals/popping_caps2) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [popping_caps](CSAW/2019/Quals/popping_caps) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [gotmilk](CSAW/2019/Quals/gotmilk) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [baby_boi](CSAW/2019/Quals/baby_boi) | [CTFtime](https://ctftime.org/event/) |
-| [CSAW 2019 Quals](CSAW/2019/Quals) | [PopGoesThePrinter](CSAW/2019/Quals/PopGoesThePrinter) | [CTFtime](https://ctftime.org/event/) |
-| [C3CTF 2019](C3CTF/2019) | [splitcode](C3CTF/2019/splitcode) | [CTFtime](https://ctftime.org/event/) |
-| [C3CTF 2019](C3CTF/2019) | [sicher](C3CTF/2019/sicher) | [CTFtime](https://ctftime.org/event/) |
-| [C3CTF 2019](C3CTF/2019) | [poor_canary](C3CTF/2019/poor_canary) | [CTFtime](https://ctftime.org/event/) |
-| [C3CTF 2019](C3CTF/2019) | [onetimepad](C3CTF/2019/onetimepad) | [CTFtime](https://ctftime.org/event/) |
-| [C3CTF 2019](C3CTF/2019) | [not_BadUSB](C3CTF/2019/not_BadUSB) | [CTFtime](https://ctftime.org/event/) |
-| [Blaze 2019](Blaze/2019) | [diy](Blaze/2019/diy) | [CTFtime](https://ctftime.org/event/) |
-| [Blaze 2019](Blaze/2019) | [bfkush1](Blaze/2019/bfkush1) | [CTFtime](https://ctftime.org/event/) |
-| [Blaze 2019](Blaze/2019) | [SimpleWasm](Blaze/2019/SimpleWasm) | [CTFtime](https://ctftime.org/event/) |
-| [Balsn 2019](Balsn/2019) | [securenote](Balsn/2019/securenote) | [CTFtime](https://ctftime.org/event/) |
-| [Balsn 2019](Balsn/2019) | [SimpleLanguage](Balsn/2019/SimpleLanguage) | [CTFtime](https://ctftime.org/event/) |
-| [Balsn 2019](Balsn/2019) | [SecPwn](Balsn/2019/SecPwn) | [CTFtime](https://ctftime.org/event/) |
-| [Balsn 2019](Balsn/2019) | [PlainNote](Balsn/2019/PlainNote) | [CTFtime](https://ctftime.org/event/) |
-| [Balsn 2019](Balsn/2019) | [Machbook](Balsn/2019/Machbook) | [CTFtime](https://ctftime.org/event/) |
-| [Balsn 2019](Balsn/2019) | [KrazyNote](Balsn/2019/KrazyNote) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [bossfight](Backdoor/2019/bossfight) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge4](Backdoor/2019/Weekly3Challenge4) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge3](Backdoor/2019/Weekly3Challenge3) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge2](Backdoor/2019/Weekly3Challenge2) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge1](Backdoor/2019/Weekly3Challenge1) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge4](Backdoor/2019/Weekly1Challenge4) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge3](Backdoor/2019/Weekly1Challenge3) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge2](Backdoor/2019/Weekly1Challenge2) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge1](Backdoor/2019/Weekly1Challenge1) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [TEAM](Backdoor/2019/TEAM) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [SHELTER](Backdoor/2019/SHELTER) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Reallocator](Backdoor/2019/Reallocator) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [PWN-EASY](Backdoor/2019/PWN-EASY) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [MiscPwn](Backdoor/2019/MiscPwn) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [I-GOT-BEEF](Backdoor/2019/I-GOT-BEEF) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [FUNSIGNALS](Backdoor/2019/FUNSIGNALS) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [EntertheMatrix](Backdoor/2019/EntertheMatrix) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [ECHO](Backdoor/2019/ECHO) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Baby_Tcache](Backdoor/2019/Baby_Tcache) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [Baby_Heap](Backdoor/2019/Baby_Heap) | [CTFtime](https://ctftime.org/event/) |
-| [Backdoor 2019](Backdoor/2019) | [BabyROP](Backdoor/2019/BabyROP) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [weather-companion](BSidesSF/2019/weather-companion) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [water_dragon](BSidesSF/2019/water_dragon) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [straw_clutcher](BSidesSF/2019/straw_clutcher) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [slowfire](BSidesSF/2019/slowfire) | [CTFtime](https://ctftime.org/event/)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/BSidesSF/2019/slowfire) |
-| [BSidesSF 2019](BSidesSF/2019) | [runitplusplus](BSidesSF/2019/runitplusplus) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [genius](BSidesSF/2019/genius) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [blink](BSidesSF/2019/blink) | [CTFtime](https://ctftime.org/event/) |
-| [BSidesSF 2019](BSidesSF/2019) | [YayorNay](BSidesSF/2019/YayorNay) | [CTFtime](https://ctftime.org/event/) |
-| [Aero 2019 Quals](Aero/2019/Quals) | [remote_storage](Aero/2019/Quals/remote_storage) | [CTFtime](https://ctftime.org/event/) |
-| [Aero 2019 Quals](Aero/2019/Quals) | [navigation_system](Aero/2019/Quals/navigation_system) | [CTFtime](https://ctftime.org/event/) |
-| [Aero 2019 Quals](Aero/2019/Quals) | [engine_script](Aero/2019/Quals/engine_script) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [pwn101](ASIS/2019/Quals/pwn101) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [Silk_road_III](ASIS/2019/Quals/Silk_road_III) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [Silk_road_II](ASIS/2019/Quals/Silk_road_II) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [Silk_road_I](ASIS/2019/Quals/Silk_road_I) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [Precise_average](ASIS/2019/Quals/Precise_average) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [Double_cream](ASIS/2019/Quals/Double_cream) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Quals](ASIS/2019/Quals) | [BabyVM1](ASIS/2019/Quals/BabyVM1) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Finals](ASIS/2019/Finals) | [series](ASIS/2019/Finals/series) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Finals](ASIS/2019/Finals) | [securalloc](ASIS/2019/Finals/securalloc) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Finals](ASIS/2019/Finals) | [md5_online](ASIS/2019/Finals/md5_online) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Finals](ASIS/2019/Finals) | [ROP13](ASIS/2019/Finals/ROP13) | [CTFtime](https://ctftime.org/event/) |
-| [ASIS 2019 Finals](ASIS/2019/Finals) | [BFI](ASIS/2019/Finals/BFI) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [zerotask](0CTF/2019/Quals/zerotask) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [scanner](0CTF/2019/Quals/scanner) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [plang](0CTF/2019/Quals/plang) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [babyaegis](0CTF/2019/Quals/babyaegis) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [applepie](0CTF/2019/Quals/applepie) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [If_on_a_winters_night_a_traveler](0CTF/2019/Quals/If_on_a_winters_night_a_traveler) | [CTFtime](https://ctftime.org/event/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [BabyHeap](0CTF/2019/Quals/BabyHeap) | [CTFtime](https://ctftime.org/event/) |
-| [XMAS 2018](XMAS/2018) | [The_Calculator_2.0](XMAS/2018/The_Calculator_2.0) | [CTFtime](https://ctftime.org/event/) |
-| [XMAS 2018](XMAS/2018) | [The_Calculator](XMAS/2018/The_Calculator) | [CTFtime](https://ctftime.org/event/) |
-| [XMAS 2018](XMAS/2018) | [Random_Present](XMAS/2018/Random_Present) | [CTFtime](https://ctftime.org/event/) |
-| [XMAS 2018](XMAS/2018) | [Pinkie_Gift](XMAS/2018/Pinkie_Gift) | [CTFtime](https://ctftime.org/event/) |
-| [XMAS 2018](XMAS/2018) | [I_want_that_toy](XMAS/2018/I_want_that_toy) | [CTFtime](https://ctftime.org/event/) |
-| [XMAS 2018](XMAS/2018) | [Greetings_from_Santa](XMAS/2018/Greetings_from_Santa) | [CTFtime](https://ctftime.org/event/) |
-| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn03](WhiteHat/2018/Quals/pwn03) | [CTFtime](https://ctftime.org/event/) |
-| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn02](WhiteHat/2018/Quals/pwn02) | [CTFtime](https://ctftime.org/event/)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/WhiteHat/2018/Quals/pwn02) |
-| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn01](WhiteHat/2018/Quals/pwn01) | [CTFtime](https://ctftime.org/event/) |
-| [WPICTF 2018](WPICTF/2018) | [penguin](WPICTF/2018/penguin) | [CTFtime](https://ctftime.org/event/) |
-| [WPICTF 2018](WPICTF/2018) | [login](WPICTF/2018/login) | [CTFtime](https://ctftime.org/event/) |
-| [WPICTF 2018](WPICTF/2018) | [kerning](WPICTF/2018/kerning) | [CTFtime](https://ctftime.org/event/) |
-| [WPICTF 2018](WPICTF/2018) | [forker.level3](WPICTF/2018/forker.level3) | [CTFtime](https://ctftime.org/event/) |
-| [WPICTF 2018](WPICTF/2018) | [forker.level2](WPICTF/2018/forker.level2) | [CTFtime](https://ctftime.org/event/)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018/forker.level2) |
-| [WPICTF 2018](WPICTF/2018) | [forker.level1](WPICTF/2018/forker.level1) | [CTFtime](https://ctftime.org/event/)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018/forker.level1) |
-| [WPICTF 2018](WPICTF/2018) | [ezpz](WPICTF/2018/ezpz) | [CTFtime](https://ctftime.org/event/) |
-| [WPICTF 2018](WPICTF/2018) | [breakingout](WPICTF/2018/breakingout) | [CTFtime](https://ctftime.org/event/) |
-| [VolgaCTF 2018](VolgaCTF/2018) | [ysnp](VolgaCTF/2018/ysnp) | [CTFtime](https://ctftime.org/event/) |
-| [VolgaCTF 2018](VolgaCTF/2018) | [ping2](VolgaCTF/2018/ping2) | [CTFtime](https://ctftime.org/event/) |
-| [VolgaCTF 2018](VolgaCTF/2018) | [lights](VolgaCTF/2018/lights) | [CTFtime](https://ctftime.org/event/) |
-| [VolgaCTF 2018](VolgaCTF/2018) | [forbidden](VolgaCTF/2018/forbidden) | [CTFtime](https://ctftime.org/event/) |
-| [VolgaCTF 2018](VolgaCTF/2018) | [button_spy](VolgaCTF/2018/button_spy) | [CTFtime](https://ctftime.org/event/) |
-| [ViettelMatesCTF 2018](ViettelMatesCTF/2018) | [unexp](ViettelMatesCTF/2018/unexp) | [CTFtime](https://ctftime.org/event/) |
-| [ViettelMatesCTF 2018](ViettelMatesCTF/2018) | [maxsetting](ViettelMatesCTF/2018/maxsetting) | [CTFtime](https://ctftime.org/event/) |
-| [ViettelMatesCTF 2018](ViettelMatesCTF/2018) | [fruitretailer](ViettelMatesCTF/2018/fruitretailer) | [CTFtime](https://ctftime.org/event/) |
-| [UIUCTF 2018](UIUCTF/2018) | [triptych](UIUCTF/2018/triptych) | [CTFtime](https://ctftime.org/event/) |
-| [UIUCTF 2018](UIUCTF/2018) | [small](UIUCTF/2018/small) | [CTFtime](https://ctftime.org/event/) |
-| [UIUCTF 2018](UIUCTF/2018) | [libc-2.26.so](UIUCTF/2018/libc-2.26.so) | [CTFtime](https://ctftime.org/event/) |
-| [UIUCTF 2018](UIUCTF/2018) | [how2heap](UIUCTF/2018/how2heap) | [CTFtime](https://ctftime.org/event/)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/UIUCTF/2018/how2heap) |
-| [UIUCTF 2018](UIUCTF/2018) | [arbitrary_null_byte_write](UIUCTF/2018/arbitrary_null_byte_write) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [twgc](TokyoWesterns/2018/twgc) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [swap_returns](TokyoWesterns/2018/swap_returns) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [neighbor_c](TokyoWesterns/2018/neighbor_c) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [load](TokyoWesterns/2018/load) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [ReadableKernelModule](TokyoWesterns/2018/ReadableKernelModule) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [EscapeMe](TokyoWesterns/2018/EscapeMe) | [CTFtime](https://ctftime.org/event/) |
-| [TokyoWesterns 2018](TokyoWesterns/2018) | [BBQ](TokyoWesterns/2018/BBQ) | [CTFtime](https://ctftime.org/event/) |
+| [RITSEC 2019](RITSEC/2019) | [jit-calc](RITSEC/2019/jit-calc) | [CTFtime](https://ctftime.org/event/898) |
+| [RCTF 2019](RCTF/2019) | [syscall_interface](RCTF/2019/syscall_interface) | [CTFtime](https://ctftime.org/event/812) |
+| [RCTF 2019](RCTF/2019) | [shellcoder](RCTF/2019/shellcoder) | [CTFtime](https://ctftime.org/event/812) |
+| [RCTF 2019](RCTF/2019) | [chat](RCTF/2019/chat) | [CTFtime](https://ctftime.org/event/812) |
+| [RCTF 2019](RCTF/2019) | [babyheap](RCTF/2019/babyheap) | [CTFtime](https://ctftime.org/event/812) |
+| [RCTF 2019](RCTF/2019) | [ManyNotes](RCTF/2019/ManyNotes) | [CTFtime](https://ctftime.org/event/812) |
+| [PwnThyBytes 2019](PwnThyBytes/2019) | [HeapSchool666](PwnThyBytes/2019/HeapSchool666) | [CTFtime](https://ctftime.org/event/756) |
+| [PwnThyBytes 2019](PwnThyBytes/2019) | [Dystopia](PwnThyBytes/2019/Dystopia) | [CTFtime](https://ctftime.org/event/756) |
+| [PwnThyBytes 2019](PwnThyBytes/2019) | [BabyFactory](PwnThyBytes/2019/BabyFactory) | [CTFtime](https://ctftime.org/event/756) |
+| [PwnThyBytes 2019](PwnThyBytes/2019) | [Ace_of_Spades](PwnThyBytes/2019/Ace_of_Spades) | [CTFtime](https://ctftime.org/event/756) |
+| [Pwn2Win 2019](Pwn2Win/2019) | [random_vault](Pwn2Win/2019/random_vault) | [CTFtime](https://ctftime.org/event/822) |
+| [Pwn2Win 2019](Pwn2Win/2019) | [full_troll](Pwn2Win/2019/full_troll) | [CTFtime](https://ctftime.org/event/822) |
+| [Pragyan 2019](Pragyan/2019) | [SuperSecureVault](Pragyan/2019/SuperSecureVault) | [CTFtime](https://ctftime.org/event/755) |
+| [Pragyan 2019](Pragyan/2019) | [SecretKeeper](Pragyan/2019/SecretKeeper) | [CTFtime](https://ctftime.org/event/755) |
+| [Pragyan 2019](Pragyan/2019) | [Feed_me](Pragyan/2019/Feed_me) | [CTFtime](https://ctftime.org/event/755) |
+| [Pragyan 2019](Pragyan/2019) | [Armoury](Pragyan/2019/Armoury) | [CTFtime](https://ctftime.org/event/755) |
+| [PlaidCTF 2019](PlaidCTF/2019) | [Suffarring](PlaidCTF/2019/Suffarring) | [CTFtime](https://ctftime.org/event/743) |
+| [PlaidCTF 2019](PlaidCTF/2019) | [Spectre](PlaidCTF/2019/Spectre) | [CTFtime](https://ctftime.org/event/743) |
+| [PlaidCTF 2019](PlaidCTF/2019) | [SPlaid_Birch](PlaidCTF/2019/SPlaid_Birch) | [CTFtime](https://ctftime.org/event/743) |
+| [NullconHackIM 2019](NullconHackIM/2019) | [tudutudututu](NullconHackIM/2019/tudutudututu) | [CTFtime](https://ctftime.org/event/741) |
+| [NullconHackIM 2019](NullconHackIM/2019) | [peasy-shell](NullconHackIM/2019/peasy-shell) | [CTFtime](https://ctftime.org/event/741) |
+| [NullconHackIM 2019](NullconHackIM/2019) | [easy-shell](NullconHackIM/2019/easy-shell) | [CTFtime](https://ctftime.org/event/741) |
+| [NullconHackIM 2019](NullconHackIM/2019) | [babypwn](NullconHackIM/2019/babypwn) | [CTFtime](https://ctftime.org/event/741) |
+| [NullconHackIM 2019](NullconHackIM/2019) | [HackIMShop](NullconHackIM/2019/HackIMShop) | [CTFtime](https://ctftime.org/event/741) |
+| [N1CTF 2019](N1CTF/2019) | [warmup](N1CTF/2019/warmup) | [CTFtime](https://ctftime.org/event/768) |
+| [N1CTF 2019](N1CTF/2019) | [babykernel](N1CTF/2019/babykernel) | [CTFtime](https://ctftime.org/event/768) |
+| [N1CTF 2019](N1CTF/2019) | [Part5-typechecker](N1CTF/2019/Part5-typechecker) | [CTFtime](https://ctftime.org/event/768) |
+| [N1CTF 2019](N1CTF/2019) | [Line](N1CTF/2019/Line) | [CTFtime](https://ctftime.org/event/768) |
+| [N1CTF 2019](N1CTF/2019) | [BabyPwn](N1CTF/2019/BabyPwn) | [CTFtime](https://ctftime.org/event/768) |
+| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Hfsipc](MidnightSun/2019/Quals/Hfsipc) | [CTFtime](https://ctftime.org/event/751) |
+| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Hfs-vm2](MidnightSun/2019/Quals/Hfs-vm2) | [CTFtime](https://ctftime.org/event/751) |
+| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Hfs-dos](MidnightSun/2019/Quals/Hfs-dos) | [CTFtime](https://ctftime.org/event/751) |
+| [MidnightSun 2019 Quals](MidnightSun/2019/Quals) | [Gissa2](MidnightSun/2019/Quals/Gissa2) | [CTFtime](https://ctftime.org/event/751) |
+| [Layer7 2019](Layer7/2019) | [sha1breaker](Layer7/2019/sha1breaker) | [CTFtime](https://ctftime.org/event/895) |
+| [Layer7 2019](Layer7/2019) | [pwnning_interpreter](Layer7/2019/pwnning_interpreter) | [CTFtime](https://ctftime.org/event/895) |
+| [Layer7 2019](Layer7/2019) | [math_board](Layer7/2019/math_board) | [CTFtime](https://ctftime.org/event/895) |
+| [Layer7 2019](Layer7/2019) | [how_old_are_you](Layer7/2019/how_old_are_you) | [CTFtime](https://ctftime.org/event/895) |
+| [Layer7 2019](Layer7/2019) | [Angel-in-us](Layer7/2019/Angel-in-us) | [CTFtime](https://ctftime.org/event/895) |
+| [KipodAfterFree 2019](KipodAfterFree/2019) | [YumYumCarrot](KipodAfterFree/2019/YumYumCarrot) | [CTFtime](https://ctftime.org/event/945) |
+| [KipodAfterFree 2019](KipodAfterFree/2019) | [Simple_Authorizer](KipodAfterFree/2019/Simple_Authorizer) | [CTFtime](https://ctftime.org/event/945) |
+| [KipodAfterFree 2019](KipodAfterFree/2019) | [CookShow](KipodAfterFree/2019/CookShow) | [CTFtime](https://ctftime.org/event/945) |
+| [KipodAfterFree 2019](KipodAfterFree/2019) | [Contracts](KipodAfterFree/2019/Contracts) | [CTFtime](https://ctftime.org/event/945) |
+| [KipodAfterFree 2019](KipodAfterFree/2019) | [CloneWarS](KipodAfterFree/2019/CloneWarS) | [CTFtime](https://ctftime.org/event/945) |
+| [InsomniHack 2019 Quals](InsomniHack/2019/Quals) | [onewrite](InsomniHack/2019/Quals/onewrite) | [CTFtime](https://ctftime.org/event/686) |
+| [InsomniHack 2019 Quals](InsomniHack/2019/Quals) | [nyanc](InsomniHack/2019/Quals/nyanc) | [CTFtime](https://ctftime.org/event/686) |
+| [InCTF 2019](InCTF/2019) | [schmaltz](InCTF/2019/schmaltz) | [CTFtime](https://ctftime.org/event/849) |
+| [InCTF 2019](InCTF/2019) | [pwnbox](InCTF/2019/pwnbox) | [CTFtime](https://ctftime.org/event/849) |
+| [InCTF 2019](InCTF/2019) | [navarint](InCTF/2019/navarint) | [CTFtime](https://ctftime.org/event/849) |
+| [InCTF 2019](InCTF/2019) | [ateles](InCTF/2019/ateles) | [CTFtime](https://ctftime.org/event/849) |
+| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [tokenizer](ISITDTU/2019/Quals/tokenizer) | [CTFtime](https://ctftime.org/event/803) |
+| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [prisonbreak](ISITDTU/2019/Quals/prisonbreak) | [CTFtime](https://ctftime.org/event/803) |
+| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [iz_heap_lv2](ISITDTU/2019/Quals/iz_heap_lv2) | [CTFtime](https://ctftime.org/event/803) |
+| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [iz_heap_lv1](ISITDTU/2019/Quals/iz_heap_lv1) | [CTFtime](https://ctftime.org/event/803) |
+| [ISITDTU 2019 Quals](ISITDTU/2019/Quals) | [babyshellcode](ISITDTU/2019/Quals/babyshellcode) | [CTFtime](https://ctftime.org/event/803) |
+| [INShAck 2019](INShAck/2019) | [signed_or_not_signed](INShAck/2019/signed_or_not_signed) | [CTFtime](https://ctftime.org/event/763) |
+| [INShAck 2019](INShAck/2019) | [ropberry](INShAck/2019/ropberry) | [CTFtime](https://ctftime.org/event/763) |
+| [INShAck 2019](INShAck/2019) | [intergover](INShAck/2019/intergover) | [CTFtime](https://ctftime.org/event/763) |
+| [INShAck 2019](INShAck/2019) | [gimme-your-shell](INShAck/2019/gimme-your-shell) | [CTFtime](https://ctftime.org/event/763) |
+| [Harekaze 2019](Harekaze/2019) | [Ramen](Harekaze/2019/Ramen) | [CTFtime](https://ctftime.org/event/789) |
+| [Harekaze 2019](Harekaze/2019) | [LoginSystem](Harekaze/2019/LoginSystem) | [CTFtime](https://ctftime.org/event/789) |
+| [Harekaze 2019](Harekaze/2019) | [HarekazeNote](Harekaze/2019/HarekazeNote) | [CTFtime](https://ctftime.org/event/789) |
+| [Harekaze 2019](Harekaze/2019) | [BabyROP2](Harekaze/2019/BabyROP2) | [CTFtime](https://ctftime.org/event/789) |
+| [Harekaze 2019](Harekaze/2019) | [BabyROP](Harekaze/2019/BabyROP) | [CTFtime](https://ctftime.org/event/789) |
+| [Hack.lu 2019](Hack.lu/2019) | [teen_kernel](Hack.lu/2019/teen_kernel) | [CTFtime](https://ctftime.org/event/830) |
+| [Hack.lu 2019](Hack.lu/2019) | [tcalc](Hack.lu/2019/tcalc) | [CTFtime](https://ctftime.org/event/830) |
+| [Hack.lu 2019](Hack.lu/2019) | [schnurtelefon](Hack.lu/2019/schnurtelefon) | [CTFtime](https://ctftime.org/event/830) |
+| [Hack.lu 2019](Hack.lu/2019) | [no_risc_no_future](Hack.lu/2019/no_risc_no_future) | [CTFtime](https://ctftime.org/event/830) |
+| [Hack.lu 2019](Hack.lu/2019) | [contiki-ng](Hack.lu/2019/contiki-ng) | [CTFtime](https://ctftime.org/event/830) |
+| [Hack.lu 2019](Hack.lu/2019) | [chat](Hack.lu/2019/chat) | [CTFtime](https://ctftime.org/event/830) |
+| [HSCTF 2019](HSCTF/2019) | [Storytime](HSCTF/2019/Storytime) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Return_to_Sender](HSCTF/2019/Return_to_Sender) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Hard_Heap](HSCTF/2019/Hard_Heap) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Combo_Chain_Lite](HSCTF/2019/Combo_Chain_Lite) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Combo_Chain](HSCTF/2019/Combo_Chain) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Caesars_Revenge](HSCTF/2019/Caesars_Revenge) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Byte](HSCTF/2019/Byte) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Bit](HSCTF/2019/Bit) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Aria_Writer_v3](HSCTF/2019/Aria_Writer_v3) | [CTFtime](https://ctftime.org/event/821) |
+| [HSCTF 2019](HSCTF/2019) | [Aria_Writer](HSCTF/2019/Aria_Writer) | [CTFtime](https://ctftime.org/event/821) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [trick_or_treat](HITCON/2019/Quals/trick_or_treat) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [one_punch](HITCON/2019/Quals/one_punch) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [netatalk](HITCON/2019/Quals/netatalk) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [lazyhouse](HITCON/2019/Quals/lazyhouse) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [dadadb](HITCON/2019/Quals/dadadb) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [cryptoshell](HITCON/2019/Quals/cryptoshell) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [breathofshadow](HITCON/2019/Quals/breathofshadow) | [CTFtime](https://ctftime.org/event/848) |
+| [HITCON 2019 Quals](HITCON/2019/Quals) | [PoEI-Luna](HITCON/2019/Quals/PoEI-Luna) | [CTFtime](https://ctftime.org/event/848) |
+| [GoogleCTF 2019 Quals](GoogleCTF/2019/Quals) | [secureboot](GoogleCTF/2019/Quals/secureboot) | [CTFtime](https://ctftime.org/event/809) |
+| [GoogleCTF 2019 Quals](GoogleCTF/2019/Quals) | [regex](GoogleCTF/2019/Quals/regex) | [CTFtime](https://ctftime.org/event/809) |
+| [GoogleCTF 2019 Quals](GoogleCTF/2019/Quals) | [jit](GoogleCTF/2019/Quals/jit) | [CTFtime](https://ctftime.org/event/809) |
+| [FireShell 2019](FireShell/2019) | [quotes_list](FireShell/2019/quotes_list) | [CTFtime](https://ctftime.org/event/727) |
+| [FireShell 2019](FireShell/2019) | [leakless](FireShell/2019/leakless) | [CTFtime](https://ctftime.org/event/727) |
+| [FireShell 2019](FireShell/2019) | [casino](FireShell/2019/casino) | [CTFtime](https://ctftime.org/event/727) |
+| [FireShell 2019](FireShell/2019) | [babyheap](FireShell/2019/babyheap) | [CTFtime](https://ctftime.org/event/727) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [rusty_shop](FacebookCTF/2019/rusty_shop) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [rank](FacebookCTF/2019/rank) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [raddest_db](FacebookCTF/2019/raddest_db) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [overfloat](FacebookCTF/2019/overfloat) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [otp_server](FacebookCTF/2019/otp_server) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [kpets](FacebookCTF/2019/kpets) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [babylist](FacebookCTF/2019/babylist) | [CTFtime](https://ctftime.org/event/781) |
+| [FacebookCTF 2019](FacebookCTF/2019) | [asciishop](FacebookCTF/2019/asciishop) | [CTFtime](https://ctftime.org/event/781) |
+| [De1CTF 2019](De1CTF/2019) | [Weapon](De1CTF/2019/Weapon) | [CTFtime](https://ctftime.org/event/843) |
+| [De1CTF 2019](De1CTF/2019) | [Unprintable](De1CTF/2019/Unprintable) | [CTFtime](https://ctftime.org/event/843) |
+| [De1CTF 2019](De1CTF/2019) | [Race](De1CTF/2019/Race) | [CTFtime](https://ctftime.org/event/843) |
+| [De1CTF 2019](De1CTF/2019) | [Mimic_note](De1CTF/2019/Mimic_note) | [CTFtime](https://ctftime.org/event/843) |
+| [De1CTF 2019](De1CTF/2019) | [BabyRust](De1CTF/2019/BabyRust) | [CTFtime](https://ctftime.org/event/843) |
+| [De1CTF 2019](De1CTF/2019) | [ABJudge](De1CTF/2019/ABJudge) | [CTFtime](https://ctftime.org/event/843) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [vitor](DEFCON/2019/Quals/vitor) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-012](DEFCON/2019/Quals/speedrun-012) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-011](DEFCON/2019/Quals/speedrun-011) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-010](DEFCON/2019/Quals/speedrun-010) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-009](DEFCON/2019/Quals/speedrun-009) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-008](DEFCON/2019/Quals/speedrun-008) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-007](DEFCON/2019/Quals/speedrun-007) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-006](DEFCON/2019/Quals/speedrun-006) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-005](DEFCON/2019/Quals/speedrun-005) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-004](DEFCON/2019/Quals/speedrun-004) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-003](DEFCON/2019/Quals/speedrun-003) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-002](DEFCON/2019/Quals/speedrun-002) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [speedrun-001](DEFCON/2019/Quals/speedrun-001) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [shitorrent](DEFCON/2019/Quals/shitorrent) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [election_coin](DEFCON/2019/Quals/election_coin) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [babyheap](DEFCON/2019/Quals/babyheap) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [VeryAndroidoso](DEFCON/2019/Quals/VeryAndroidoso) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [RTOoOS](DEFCON/2019/Quals/RTOoOS) | [CTFtime](https://ctftime.org/event/762) |
+| [DEFCON 2019 Quals](DEFCON/2019/Quals) | [Hotel-California](DEFCON/2019/Quals/Hotel-California) | [CTFtime](https://ctftime.org/event/762) |
+| [Codegate 2019 Quals](Codegate/2019/Quals) | [cg_casino](Codegate/2019/Quals/cg_casino) | [CTFtime](https://ctftime.org/event/719) |
+| [Codegate 2019 Quals](Codegate/2019/Quals) | [KingMaker](Codegate/2019/Quals/KingMaker) | [CTFtime](https://ctftime.org/event/719) |
+| [Codegate 2019 Quals](Codegate/2019/Quals) | [20000](Codegate/2019/Quals/20000) | [CTFtime](https://ctftime.org/event/719) |
+| [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [regfuck](ChaosCommunicationCamp/2019/regfuck) | [CTFtime](https://ctftime.org/event/854) |
+| [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [pwning_your_kernelz](ChaosCommunicationCamp/2019/pwning_your_kernelz) | [CTFtime](https://ctftime.org/event/854) |
+| [ChaosCommunicationCamp 2019](ChaosCommunicationCamp/2019) | [hsmprototype](ChaosCommunicationCamp/2019/hsmprototype) | [CTFtime](https://ctftime.org/event/854) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [travller](CSAW/2019/Quals/travller) | [CTFtime](https://ctftime.org/event/870) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [small_boi](CSAW/2019/Quals/small_boi) | [CTFtime](https://ctftime.org/event/870) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [popping_caps2](CSAW/2019/Quals/popping_caps2) | [CTFtime](https://ctftime.org/event/870) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [popping_caps](CSAW/2019/Quals/popping_caps) | [CTFtime](https://ctftime.org/event/870) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [gotmilk](CSAW/2019/Quals/gotmilk) | [CTFtime](https://ctftime.org/event/870) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [baby_boi](CSAW/2019/Quals/baby_boi) | [CTFtime](https://ctftime.org/event/870) |
+| [CSAW 2019 Quals](CSAW/2019/Quals) | [PopGoesThePrinter](CSAW/2019/Quals/PopGoesThePrinter) | [CTFtime](https://ctftime.org/event/870) |
+| [C3CTF 2019](C3CTF/2019) | [splitcode](C3CTF/2019/splitcode) | [CTFtime](https://ctftime.org/event/825) |
+| [C3CTF 2019](C3CTF/2019) | [sicher](C3CTF/2019/sicher) | [CTFtime](https://ctftime.org/event/825) |
+| [C3CTF 2019](C3CTF/2019) | [poor_canary](C3CTF/2019/poor_canary) | [CTFtime](https://ctftime.org/event/825) |
+| [C3CTF 2019](C3CTF/2019) | [onetimepad](C3CTF/2019/onetimepad) | [CTFtime](https://ctftime.org/event/825) |
+| [C3CTF 2019](C3CTF/2019) | [not_BadUSB](C3CTF/2019/not_BadUSB) | [CTFtime](https://ctftime.org/event/825) |
+| [Blaze 2019](Blaze/2019) | [diy](Blaze/2019/diy) | [CTFtime](https://ctftime.org/event/790) |
+| [Blaze 2019](Blaze/2019) | [bfkush1](Blaze/2019/bfkush1) | [CTFtime](https://ctftime.org/event/790) |
+| [Blaze 2019](Blaze/2019) | [SimpleWasm](Blaze/2019/SimpleWasm) | [CTFtime](https://ctftime.org/event/790) |
+| [Balsn 2019](Balsn/2019) | [securenote](Balsn/2019/securenote) | [CTFtime](https://ctftime.org/event/811) |
+| [Balsn 2019](Balsn/2019) | [SimpleLanguage](Balsn/2019/SimpleLanguage) | [CTFtime](https://ctftime.org/event/811) |
+| [Balsn 2019](Balsn/2019) | [SecPwn](Balsn/2019/SecPwn) | [CTFtime](https://ctftime.org/event/811) |
+| [Balsn 2019](Balsn/2019) | [PlainNote](Balsn/2019/PlainNote) | [CTFtime](https://ctftime.org/event/811) |
+| [Balsn 2019](Balsn/2019) | [Machbook](Balsn/2019/Machbook) | [CTFtime](https://ctftime.org/event/811) |
+| [Balsn 2019](Balsn/2019) | [KrazyNote](Balsn/2019/KrazyNote) | [CTFtime](https://ctftime.org/event/811) |
+| [Backdoor 2019](Backdoor/2019) | [bossfight](Backdoor/2019/bossfight) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge4](Backdoor/2019/Weekly3Challenge4) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge3](Backdoor/2019/Weekly3Challenge3) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge2](Backdoor/2019/Weekly3Challenge2) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly3Challenge1](Backdoor/2019/Weekly3Challenge1) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge4](Backdoor/2019/Weekly1Challenge4) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge3](Backdoor/2019/Weekly1Challenge3) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge2](Backdoor/2019/Weekly1Challenge2) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Weekly1Challenge1](Backdoor/2019/Weekly1Challenge1) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [TEAM](Backdoor/2019/TEAM) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [SHELTER](Backdoor/2019/SHELTER) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Reallocator](Backdoor/2019/Reallocator) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [PWN-EASY](Backdoor/2019/PWN-EASY) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [MiscPwn](Backdoor/2019/MiscPwn) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [I-GOT-BEEF](Backdoor/2019/I-GOT-BEEF) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [FUNSIGNALS](Backdoor/2019/FUNSIGNALS) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [EntertheMatrix](Backdoor/2019/EntertheMatrix) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [ECHO](Backdoor/2019/ECHO) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Baby_Tcache](Backdoor/2019/Baby_Tcache) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [Baby_Heap](Backdoor/2019/Baby_Heap) | [CTFtime](https://ctftime.org/event/850) |
+| [Backdoor 2019](Backdoor/2019) | [BabyROP](Backdoor/2019/BabyROP) | [CTFtime](https://ctftime.org/event/850) |
+| [BSidesSF 2019](BSidesSF/2019) | [weather-companion](BSidesSF/2019/weather-companion) | [CTFtime](https://ctftime.org/event/753) |
+| [BSidesSF 2019](BSidesSF/2019) | [water_dragon](BSidesSF/2019/water_dragon) | [CTFtime](https://ctftime.org/event/753) |
+| [BSidesSF 2019](BSidesSF/2019) | [straw_clutcher](BSidesSF/2019/straw_clutcher) | [CTFtime](https://ctftime.org/event/753) |
+| [BSidesSF 2019](BSidesSF/2019) | [slowfire](BSidesSF/2019/slowfire) | [CTFtime](https://ctftime.org/event/753)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/BSidesSF/2019/slowfire) |
+| [BSidesSF 2019](BSidesSF/2019) | [runitplusplus](BSidesSF/2019/runitplusplus) | [CTFtime](https://ctftime.org/event/753) |
+| [BSidesSF 2019](BSidesSF/2019) | [genius](BSidesSF/2019/genius) | [CTFtime](https://ctftime.org/event/753) |
+| [BSidesSF 2019](BSidesSF/2019) | [blink](BSidesSF/2019/blink) | [CTFtime](https://ctftime.org/event/753) |
+| [BSidesSF 2019](BSidesSF/2019) | [YayorNay](BSidesSF/2019/YayorNay) | [CTFtime](https://ctftime.org/event/753) |
+| [Aero 2019](Aero/2019) | [remote_storage](Aero/2019/remote_storage) | [CTFtime](https://ctftime.org/event/772) |
+| [Aero 2019](Aero/2019) | [navigation_system](Aero/2019/navigation_system) | [CTFtime](https://ctftime.org/event/772) |
+| [Aero 2019](Aero/2019) | [engine_script](Aero/2019/engine_script) | [CTFtime](https://ctftime.org/event/772) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [pwn101](ASIS/2019/Quals/pwn101) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [Silk_road_III](ASIS/2019/Quals/Silk_road_III) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [Silk_road_II](ASIS/2019/Quals/Silk_road_II) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [Silk_road_I](ASIS/2019/Quals/Silk_road_I) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [Precise_average](ASIS/2019/Quals/Precise_average) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [Double_cream](ASIS/2019/Quals/Double_cream) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Quals](ASIS/2019/Quals) | [BabyVM1](ASIS/2019/Quals/BabyVM1) | [CTFtime](https://ctftime.org/event/732) |
+| [ASIS 2019 Finals](ASIS/2019/Finals) | [series](ASIS/2019/Finals/series) | [CTFtime](https://ctftime.org/event/805) |
+| [ASIS 2019 Finals](ASIS/2019/Finals) | [securalloc](ASIS/2019/Finals/securalloc) | [CTFtime](https://ctftime.org/event/805) |
+| [ASIS 2019 Finals](ASIS/2019/Finals) | [md5_online](ASIS/2019/Finals/md5_online) | [CTFtime](https://ctftime.org/event/805) |
+| [ASIS 2019 Finals](ASIS/2019/Finals) | [ROP13](ASIS/2019/Finals/ROP13) | [CTFtime](https://ctftime.org/event/805) |
+| [ASIS 2019 Finals](ASIS/2019/Finals) | [BFI](ASIS/2019/Finals/BFI) | [CTFtime](https://ctftime.org/event/805) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [zerotask](0CTF/2019/Quals/zerotask) | [CTFtime](https://ctftime.org/event/736) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [scanner](0CTF/2019/Quals/scanner) | [CTFtime](https://ctftime.org/event/736) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [plang](0CTF/2019/Quals/plang) | [CTFtime](https://ctftime.org/event/736) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [babyaegis](0CTF/2019/Quals/babyaegis) | [CTFtime](https://ctftime.org/event/736) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [applepie](0CTF/2019/Quals/applepie) | [CTFtime](https://ctftime.org/event/736) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [If_on_a_winters_night_a_traveler](0CTF/2019/Quals/If_on_a_winters_night_a_traveler) | [CTFtime](https://ctftime.org/event/736) |
+| [0CTF 2019 Quals](0CTF/2019/Quals) | [BabyHeap](0CTF/2019/Quals/BabyHeap) | [CTFtime](https://ctftime.org/event/736) |
+| [XMAS 2018](XMAS/2018) | [The_Calculator_2.0](XMAS/2018/The_Calculator_2.0) | [CTFtime](https://ctftime.org/event/724) |
+| [XMAS 2018](XMAS/2018) | [The_Calculator](XMAS/2018/The_Calculator) | [CTFtime](https://ctftime.org/event/724) |
+| [XMAS 2018](XMAS/2018) | [Random_Present](XMAS/2018/Random_Present) | [CTFtime](https://ctftime.org/event/724) |
+| [XMAS 2018](XMAS/2018) | [Pinkie_Gift](XMAS/2018/Pinkie_Gift) | [CTFtime](https://ctftime.org/event/724) |
+| [XMAS 2018](XMAS/2018) | [I_want_that_toy](XMAS/2018/I_want_that_toy) | [CTFtime](https://ctftime.org/event/724) |
+| [XMAS 2018](XMAS/2018) | [Greetings_from_Santa](XMAS/2018/Greetings_from_Santa) | [CTFtime](https://ctftime.org/event/724) |
+| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn03](WhiteHat/2018/Quals/pwn03) | [CTFtime](https://ctftime.org/event/656) |
+| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn02](WhiteHat/2018/Quals/pwn02) | [CTFtime](https://ctftime.org/event/656)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/WhiteHat/2018/Quals/pwn02) |
+| [WhiteHat 2018 Quals](WhiteHat/2018/Quals) | [pwn01](WhiteHat/2018/Quals/pwn01) | [CTFtime](https://ctftime.org/event/656) |
+| [WPICTF 2018](WPICTF/2018) | [penguin](WPICTF/2018/penguin) | [CTFtime](https://ctftime.org/event/600) |
+| [WPICTF 2018](WPICTF/2018) | [login](WPICTF/2018/login) | [CTFtime](https://ctftime.org/event/600) |
+| [WPICTF 2018](WPICTF/2018) | [kerning](WPICTF/2018/kerning) | [CTFtime](https://ctftime.org/event/600) |
+| [WPICTF 2018](WPICTF/2018) | [forker.level3](WPICTF/2018/forker.level3) | [CTFtime](https://ctftime.org/event/600) |
+| [WPICTF 2018](WPICTF/2018) | [forker.level2](WPICTF/2018/forker.level2) | [CTFtime](https://ctftime.org/event/600)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018/forker.level2) |
+| [WPICTF 2018](WPICTF/2018) | [forker.level1](WPICTF/2018/forker.level1) | [CTFtime](https://ctftime.org/event/600)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/WPICTF/2018/forker.level1) |
+| [WPICTF 2018](WPICTF/2018) | [ezpz](WPICTF/2018/ezpz) | [CTFtime](https://ctftime.org/event/600) |
+| [WPICTF 2018](WPICTF/2018) | [breakingout](WPICTF/2018/breakingout) | [CTFtime](https://ctftime.org/event/600) |
+| [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [ysnp](VolgaCTF/2018/Quals/ysnp) | [CTFtime](https://ctftime.org/event/539) |
+| [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [ping2](VolgaCTF/2018/Quals/ping2) | [CTFtime](https://ctftime.org/event/539) |
+| [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [lights](VolgaCTF/2018/Quals/lights) | [CTFtime](https://ctftime.org/event/539) |
+| [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [forbidden](VolgaCTF/2018/Quals/forbidden) | [CTFtime](https://ctftime.org/event/539) |
+| [VolgaCTF 2018 Quals](VolgaCTF/2018/Quals) | [button_spy](VolgaCTF/2018/Quals/button_spy) | [CTFtime](https://ctftime.org/event/539) |
+| [ViettelMates 2018](ViettelMates/2018) | [unexp](ViettelMates/2018/unexp) | [CTFtime](https://ctftime.org/event/629) |
+| [ViettelMates 2018](ViettelMates/2018) | [maxsetting](ViettelMates/2018/maxsetting) | [CTFtime](https://ctftime.org/event/629) |
+| [ViettelMates 2018](ViettelMates/2018) | [fruitretailer](ViettelMates/2018/fruitretailer) | [CTFtime](https://ctftime.org/event/629) |
+| [UIUCTF 2018](UIUCTF/2018) | [triptych](UIUCTF/2018/triptych) | [CTFtime](https://ctftime.org/event/587) |
+| [UIUCTF 2018](UIUCTF/2018) | [small](UIUCTF/2018/small) | [CTFtime](https://ctftime.org/event/587) |
+| [UIUCTF 2018](UIUCTF/2018) | [libc-2.26.so](UIUCTF/2018/libc-2.26.so) | [CTFtime](https://ctftime.org/event/587) |
+| [UIUCTF 2018](UIUCTF/2018) | [how2heap](UIUCTF/2018/how2heap) | [CTFtime](https://ctftime.org/event/587)<br>[PersianCatsCTF](https://github.com/sajjadium/PersianCatsCTF/tree/master/UIUCTF/2018/how2heap) |
+| [UIUCTF 2018](UIUCTF/2018) | [arbitrary_null_byte_write](UIUCTF/2018/arbitrary_null_byte_write) | [CTFtime](https://ctftime.org/event/587) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [twgc](TokyoWesterns/2018/twgc) | [CTFtime](https://ctftime.org/event/651) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [swap_returns](TokyoWesterns/2018/swap_returns) | [CTFtime](https://ctftime.org/event/651) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [neighbor_c](TokyoWesterns/2018/neighbor_c) | [CTFtime](https://ctftime.org/event/651) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [load](TokyoWesterns/2018/load) | [CTFtime](https://ctftime.org/event/651) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [ReadableKernelModule](TokyoWesterns/2018/ReadableKernelModule) | [CTFtime](https://ctftime.org/event/651) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [EscapeMe](TokyoWesterns/2018/EscapeMe) | [CTFtime](https://ctftime.org/event/651) |
+| [TokyoWesterns 2018](TokyoWesterns/2018) | [BBQ](TokyoWesterns/2018/BBQ) | [CTFtime](https://ctftime.org/event/651) |
 | [TUCTF 2018](TUCTF/2018) | [timber](TUCTF/2018/timber) | [CTFtime](https://ctftime.org/event/) |
 | [TUCTF 2018](TUCTF/2018) | [shella-hard](TUCTF/2018/shella-hard) | [CTFtime](https://ctftime.org/event/) |
 | [TUCTF 2018](TUCTF/2018) | [shella-easy](TUCTF/2018/shella-easy) | [CTFtime](https://ctftime.org/event/) |
