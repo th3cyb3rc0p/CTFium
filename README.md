@@ -167,7 +167,7 @@ Collection of CTF pwn challenges.
 | [TAMUctf 2019](TAMUctf/2019) | [pwn6](TAMUctf/2019/pwn6) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/) |
 | [TAMUctf 2019](TAMUctf/2019) | [pwn5](TAMUctf/2019/pwn5) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/)<br>[PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/TAMUctf/2019/pwn5) |
 | [TAMUctf 2019](TAMUctf/2019) | [pwn4](TAMUctf/2019/pwn4) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/) |
-| [TAMUctf 2019](TAMUctf/2019) | [pwn3](TAMUctf/2019/pwn3) | [CTFtime](https://ctftime.org/event/)<br>[Writeups](https://ctftime.org/event//tasks/)<br>[PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/TAMUctf/2019/pwn3) |
+| [TAMUctf 2019](TAMUctf/2019) | [pwn3](TAMUctf/2019/pwn3) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/)<br>[PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/TAMUctf/2019/pwn3) |
 | [TAMUctf 2019](TAMUctf/2019) | [pwn2](TAMUctf/2019/pwn2) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/) |
 | [TAMUctf 2019](TAMUctf/2019) | [pwn1](TAMUctf/2019/pwn1) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/) |
 | [TAMUctf 2019](TAMUctf/2019) | [howdyapp.keystore](TAMUctf/2019/howdyapp.keystore) | [CTFtime](https://ctftime.org/event/740)<br>[Writeups](https://ctftime.org/event/740/tasks/) |
