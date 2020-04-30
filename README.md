@@ -2,6 +2,12 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [HackPack 2020](HackPack/2020) | [bookworm](HackPack/2020/bookworm) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
+| [HackPack 2020](HackPack/2020) | [climb](HackPack/2020/climb) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
+| [HackPack 2020](HackPack/2020) | [jsclean](HackPack/2020/jsclean) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
+| [HackPack 2020](HackPack/2020) | [mousetrap](HackPack/2020/mousetrap) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
+| [HackPack 2020](HackPack/2020) | [riskv_business](HackPack/2020/riskv_business) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
+| [HackPack 2020](HackPack/2020) | [toddler_cache](HackPack/2020/toddler_cache) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
 | [IJCTF 2020](IJCTF/2020) | [built_in_http](IJCTF/2020/built_in_http) | [CTFtime](https://ctftime.org/event/1003)<br>[Writeups](https://ctftime.org/event/1003/tasks/) |
 | [IJCTF 2020](IJCTF/2020) | [input_checker](IJCTF/2020/input_checker) | [CTFtime](https://ctftime.org/event/1003)<br>[Writeups](https://ctftime.org/event/1003/tasks/) |
 | [IJCTF 2020](IJCTF/2020) | [admin](IJCTF/2020/admin) | [CTFtime](https://ctftime.org/event/1003)<br>[Writeups](https://ctftime.org/event/1003/tasks/) |
