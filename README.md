@@ -2,6 +2,9 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [De1CTF 2020](De1CTF/2020) | [stl_container](De1CTF/2020/stl_container) | [CTFtime](https://ctftime.org/event/1033)<br>[Writeups](https://ctftime.org/event/1033/tasks/) |
+| [De1CTF 2020](De1CTF/2020) | [broadcast_test](De1CTF/2020/broadcast_test) | [CTFtime](https://ctftime.org/event/1033)<br>[Writeups](https://ctftime.org/event/1033/tasks/) |
+| [De1CTF 2020](De1CTF/2020) | [pppd](De1CTF/2020/pppd) | [CTFtime](https://ctftime.org/event/1033)<br>[Writeups](https://ctftime.org/event/1033/tasks/) |
 | [HackPack 2020](HackPack/2020) | [bookworm](HackPack/2020/bookworm) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
 | [HackPack 2020](HackPack/2020) | [climb](HackPack/2020/climb) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
 | [HackPack 2020](HackPack/2020) | [jsclean](HackPack/2020/jsclean) | [CTFtime](https://ctftime.org/event/1036)<br>[Writeups](https://ctftime.org/event/1036/tasks/) |
