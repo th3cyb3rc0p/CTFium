@@ -13,6 +13,7 @@ Collection of CTF pwn challenges.
 | [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [house_of_sweets](SpamAndFlags/2020/Quals/house_of_sweets) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
 | [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [nativity_scene](SpamAndFlags/2020/Quals/nativity_scene) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
 | [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [secstore](SpamAndFlags/2020/Quals/secstore) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
+| [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [secstore2](SpamAndFlags/2020/Quals/secstore2) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
 | [De1CTF 2020](De1CTF/2020) | [stl_container](De1CTF/2020/stl_container) | [CTFtime](https://ctftime.org/event/1033)<br>[Writeups](https://ctftime.org/event/1033/tasks/) |
 | [De1CTF 2020](De1CTF/2020) | [broadcast_test](De1CTF/2020/broadcast_test) | [CTFtime](https://ctftime.org/event/1033)<br>[Writeups](https://ctftime.org/event/1033/tasks/) |
 | [De1CTF 2020](De1CTF/2020) | [pppd](De1CTF/2020/pppd) | [CTFtime](https://ctftime.org/event/1033)<br>[Writeups](https://ctftime.org/event/1033/tasks/) |
