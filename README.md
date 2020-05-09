@@ -2,6 +2,11 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [SharkyCTF 2020](SharkyCTF/2020) | [kikoo_4_ever](SharkyCTF/2020/kikoo_4_ever) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
+| [SharkyCTF 2020](SharkyCTF/2020) | [captain_hook](SharkyCTF/2020/captain_hook) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
+| [SharkyCTF 2020](SharkyCTF/2020) | [give_away_2](SharkyCTF/2020/give_away_2) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
+| [SharkyCTF 2020](SharkyCTF/2020) | [give_away_1](SharkyCTF/2020/give_away_1) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
+| [SharkyCTF 2020](SharkyCTF/2020) | [give_away_0](SharkyCTF/2020/give_away_0) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
 | [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [environmental_issues](SpamAndFlags/2020/Quals/environmental_issues) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
 | [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [environmental_issues2](SpamAndFlags/2020/Quals/environmental_issues2) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
 | [SpamAndFlags 2020 Quals](SpamAndFlags/2020/Quals) | [hashing_at_home](SpamAndFlags/2020/Quals/hashing_at_home) | [CTFtime](https://ctftime.org/event/970)<br>[Writeups](https://ctftime.org/event/970/tasks/) |
