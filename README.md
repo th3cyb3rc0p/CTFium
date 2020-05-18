@@ -2,21 +2,21 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
-| [DEF CON 2020 Quals](DEFCON/2020) | [adventure-on-lifebooox](DEFCON/2020/Quals/adventure-on-lifebooox) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [babymaze](DEFCON/2020/Quals/babymaze) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [biooosless](DEFCON/2020/Quals/biooosless) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [blursed](DEFCON/2020/Quals/blursed) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [bytecoooding](DEFCON/2020/Quals/bytecoooding) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [coooppersmith](DEFCON/2020/Quals/coooppersmith) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [cursed](DEFCON/2020/Quals/cursed) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [fungez](DEFCON/2020/Quals/fungez) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [interrupted](DEFCON/2020/Quals/interrupted) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [keml](DEFCON/2020/Quals/keml) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [mamamaze](DEFCON/2020/Quals/mamamaze) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [maybe](DEFCON/2020/Quals/maybe) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [nooopsled](DEFCON/2020/Quals/nooopsled) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [ooofs](DEFCON/2020/Quals/ooofs) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
-| [DEF CON 2020 Quals](DEFCON/2020) | [supersafecalc](DEFCON/2020/Quals/supersafecalc) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [adventure-on-lifebooox](DEFCON/2020/Quals/adventure-on-lifebooox) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [babymaze](DEFCON/2020/Quals/babymaze) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [biooosless](DEFCON/2020/Quals/biooosless) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [blursed](DEFCON/2020/Quals/blursed) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [bytecoooding](DEFCON/2020/Quals/bytecoooding) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [coooppersmith](DEFCON/2020/Quals/coooppersmith) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [cursed](DEFCON/2020/Quals/cursed) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [fungez](DEFCON/2020/Quals/fungez) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [interrupted](DEFCON/2020/Quals/interrupted) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [keml](DEFCON/2020/Quals/keml) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [mamamaze](DEFCON/2020/Quals/mamamaze) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [maybe](DEFCON/2020/Quals/maybe) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [nooopsled](DEFCON/2020/Quals/nooopsled) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [ooofs](DEFCON/2020/Quals/ooofs) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
+| [DEF CON 2020 Quals](DEFCON/2020/Quals) | [supersafecalc](DEFCON/2020/Quals/supersafecalc) | [CTFtime](https://ctftime.org/event/994)<br>[Writeups](https://ctftime.org/event/994/tasks/) |
 | [SharkyCTF 2020](SharkyCTF/2020) | [kikoo_4_ever](SharkyCTF/2020/kikoo_4_ever) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
 | [SharkyCTF 2020](SharkyCTF/2020) | [captain_hook](SharkyCTF/2020/captain_hook) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
 | [SharkyCTF 2020](SharkyCTF/2020) | [give_away_2](SharkyCTF/2020/give_away_2) | [CTFtime](https://ctftime.org/event/1034)<br>[Writeups](https://ctftime.org/event/1034/tasks/) |
