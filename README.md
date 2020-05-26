@@ -2,6 +2,17 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [TJCTF 2020](TJCTF/2020) | [cookie_library](TJCTF/2020/cookie_library) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [TJCTF 2020](TJCTF/2020) | [el_primo](TJCTF/2020/el_primo) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [TJCTF 2020](TJCTF/2020) | [match](TJCTF/2020/match) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [TJCTF 2020](TJCTF/2020) | [naughty](TJCTF/2020/naughty) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [TJCTF 2020](TJCTF/2020) | [osrs](TJCTF/2020/osrs) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [TJCTF 2020](TJCTF/2020) | [seashells](TJCTF/2020/seashells) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [TJCTF 2020](TJCTF/2020) | [stop](TJCTF/2020/stop) | [CTFtime](https://ctftime.org/event/928) [Writeups](https://ctftime.org/event/928/tasks/) |
+| [m0leCon 2020 Quals](m0leCon/2020/Quals) | [babyk](m0leCon/2020/Quals/babyk) | [CTFtime](https://ctftime.org/event/1025) [Writeups](https://ctftime.org/event/1025/tasks/) |
+| [m0leCon 2020 Quals](m0leCon/2020/Quals) | [blacky_echo](m0leCon/2020/Quals/blacky_echo) | [CTFtime](https://ctftime.org/event/1025) [Writeups](https://ctftime.org/event/1025/tasks/) |
+| [m0leCon 2020 Quals](m0leCon/2020/Quals) | [fakev](m0leCon/2020/Quals/fakev) | [CTFtime](https://ctftime.org/event/1025) [Writeups](https://ctftime.org/event/1025/tasks/) |
+| [m0leCon 2020 Quals](m0leCon/2020/Quals) | [knife](m0leCon/2020/Quals/knife) | [CTFtime](https://ctftime.org/event/1025) [Writeups](https://ctftime.org/event/1025/tasks/) |
 | [DEF CON 2020 Quals](DEFCON/2020/Quals) | [adventure-on-lifebooox](DEFCON/2020/Quals/adventure-on-lifebooox) | [CTFtime](https://ctftime.org/event/994) [Writeups](https://ctftime.org/event/994/tasks/) |
 | [DEF CON 2020 Quals](DEFCON/2020/Quals) | [babymaze](DEFCON/2020/Quals/babymaze) | [CTFtime](https://ctftime.org/event/994) [Writeups](https://ctftime.org/event/994/tasks/) |
 | [DEF CON 2020 Quals](DEFCON/2020/Quals) | [biooosless](DEFCON/2020/Quals/biooosless) | [CTFtime](https://ctftime.org/event/994) [Writeups](https://ctftime.org/event/994/tasks/) |
