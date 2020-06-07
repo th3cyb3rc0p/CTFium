@@ -2,6 +2,7 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| []() | []() | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
 | [RCTF 2020](RCTF/2020) | [vm](RCTF/2020/vm) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
 | [RCTF 2020](RCTF/2020) | [note](RCTF/2020/note) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
 | [RCTF 2020](RCTF/2020) | [no_write](RCTF/2020/no_write) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
