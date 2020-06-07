@@ -2,7 +2,16 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
-| []() | []() | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
+| [Defenit 2020](Defenit/2020) | [warmup](Defenit/2020/warmup) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [Defenit 2020](Defenit/2020) | [variable_machine](Defenit/2020/variable_machine) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [Defenit 2020](Defenit/2020) | [persona](Defenit/2020/persona) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [Defenit 2020](Defenit/2020) | [orvvm](Defenit/2020/orvvm) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [Defenit 2020](Defenit/2020) | [input_test_driver](Defenit/2020/input_test_driver) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [Defenit 2020](Defenit/2020) | [error_program](Defenit/2020/error_program) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [Defenit 2020](Defenit/2020) | [bitbit](Defenit/2020/bitbit) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
+| [BatPwn 2020](BatPwn/2020) | [basic_bof](BatPwn/2020/basic_bof) | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
+| [BatPwn 2020](BatPwn/2020) | [echo_server](BatPwn/2020/echo_server) | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
+| [BatPwn 2020](BatPwn/2020) | [news_letter](BatPwn/2020/news_letter) | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
 | [RCTF 2020](RCTF/2020) | [vm](RCTF/2020/vm) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
 | [RCTF 2020](RCTF/2020) | [note](RCTF/2020/note) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
 | [RCTF 2020](RCTF/2020) | [no_write](RCTF/2020/no_write) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
