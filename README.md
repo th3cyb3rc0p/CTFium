@@ -2,14 +2,6 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
-| [HSCTF 2020](HSCTF/2020) | [treecache_alyx](HSCTF/2020/treecache_alyx) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [treecache_2](HSCTF/2020/treecache_2) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [treecache_1](HSCTF/2020/treecache_1) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [studysim](HSCTF/2020/studysim) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [shattered](HSCTF/2020/shattered) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [pwnagotchi](HSCTF/2020/pwnagotchi) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [got_it](HSCTF/2020/got_it) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
-| [HSCTF 2020](HSCTF/2020) | [boredom](HSCTF/2020/boredom) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
 | [Defenit 2020](Defenit/2020) | [warmup](Defenit/2020/warmup) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
 | [Defenit 2020](Defenit/2020) | [variable_machine](Defenit/2020/variable_machine) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
 | [Defenit 2020](Defenit/2020) | [persona](Defenit/2020/persona) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
@@ -20,6 +12,14 @@ Collection of CTF pwn challenges.
 | [BatPwn 2020](BatPwn/2020) | [basic_bof](BatPwn/2020/basic_bof) | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
 | [BatPwn 2020](BatPwn/2020) | [echo_server](BatPwn/2020/echo_server) | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
 | [BatPwn 2020](BatPwn/2020) | [news_letter](BatPwn/2020/news_letter) | [CTFtime](https://ctftime.org/event/1065) [Writeups](https://ctftime.org/event/1065/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [treecache_alyx](HSCTF/2020/treecache_alyx) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [treecache_2](HSCTF/2020/treecache_2) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [treecache_1](HSCTF/2020/treecache_1) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [studysim](HSCTF/2020/studysim) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [shattered](HSCTF/2020/shattered) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [pwnagotchi](HSCTF/2020/pwnagotchi) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [got_it](HSCTF/2020/got_it) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [boredom](HSCTF/2020/boredom) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
 | [RCTF 2020](RCTF/2020) | [vm](RCTF/2020/vm) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
 | [RCTF 2020](RCTF/2020) | [note](RCTF/2020/note) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
 | [RCTF 2020](RCTF/2020) | [no_write](RCTF/2020/no_write) | [CTFtime](https://ctftime.org/event/1045) [Writeups](https://ctftime.org/event/1045/tasks/) |
