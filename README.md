@@ -2,6 +2,14 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [HSCTF 2020](HSCTF/2020) | [treecache_alyx](HSCTF/2020/treecache_alyx) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [treecache_2](HSCTF/2020/treecache_2) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [treecache_1](HSCTF/2020/treecache_1) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [studysim](HSCTF/2020/studysim) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [shattered](HSCTF/2020/shattered) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [pwnagotchi](HSCTF/2020/pwnagotchi) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [got_it](HSCTF/2020/got_it) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
+| [HSCTF 2020](HSCTF/2020) | [boredom](HSCTF/2020/boredom) | [CTFtime](https://ctftime.org/event/939) [Writeups](https://ctftime.org/event/939/tasks/) |
 | [Defenit 2020](Defenit/2020) | [warmup](Defenit/2020/warmup) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
 | [Defenit 2020](Defenit/2020) | [variable_machine](Defenit/2020/variable_machine) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
 | [Defenit 2020](Defenit/2020) | [persona](Defenit/2020/persona) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
