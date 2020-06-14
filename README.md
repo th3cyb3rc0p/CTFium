@@ -2,6 +2,14 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [NahamCon 2020](NahamCon/2020) | [syrup](NahamCon/2020/syrup) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [shifts_ahoy](NahamCon/2020/shifts_ahoy) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [saas](NahamCon/2020/saas) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [ripe_reader](NahamCon/2020/ripe_reader) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [leet_haxor](NahamCon/2020/leet_haxor) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [free_willy](NahamCon/2020/free_willy) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [dangerous](NahamCon/2020/dangerous) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
+| [NahamCon 2020](NahamCon/2020) | [conveyor_belt](NahamCon/2020/conveyor_belt) | [CTFtime](https://ctftime.org/event/1067) [Writeups](https://ctftime.org/event/1067/tasks/) |
 | [Defenit 2020](Defenit/2020) | [warmup](Defenit/2020/warmup) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
 | [Defenit 2020](Defenit/2020) | [variable_machine](Defenit/2020/variable_machine) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
 | [Defenit 2020](Defenit/2020) | [persona](Defenit/2020/persona) | [CTFtime](https://ctftime.org/event/1060) [Writeups](https://ctftime.org/event/1060/tasks/) |
