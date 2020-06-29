@@ -2,6 +2,17 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [ww](0CTF/2020/Quals/ww) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [simple_echoserver](0CTF/2020/Quals/simple_echoserver) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [one_line_js](0CTF/2020/Quals/one_line_js) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [flash-2](0CTF/2020/Quals/flash-2) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [eeeeeemoji](0CTF/2020/Quals/eeeeeemoji) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [duet](0CTF/2020/Quals/duet) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [chromium_sbx](0CTF/2020/Quals/chromium_sbx) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [chromium_rce](0CTF/2020/Quals/chromium_rce) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [chromium_fullchain](0CTF/2020/Quals/chromium_fullchain) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [baby_bypass](0CTF/2020/Quals/baby_bypass) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
+| [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [DoItTryIt](0CTF/2020/Quals/DoItTryIt) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
 | [redpwn 2020](redpwn/2020) | [zero-the-hero](redpwn/2020/zero-the-hero) | [CTFtime](https://ctftime.org/event/995) [Writeups](https://ctftime.org/event/995/tasks/) |
 | [redpwn 2020](redpwn/2020) | [the-library](redpwn/2020/the-library) | [CTFtime](https://ctftime.org/event/995) [Writeups](https://ctftime.org/event/995/tasks/) |
 | [redpwn 2020](redpwn/2020) | [tetanus-shot](redpwn/2020/tetanus-shot) | [CTFtime](https://ctftime.org/event/995) [Writeups](https://ctftime.org/event/995/tasks/) |
