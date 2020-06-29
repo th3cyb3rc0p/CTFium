@@ -617,13 +617,13 @@ Collection of CTF pwn challenges.
 | [ASIS 2019 Finals](ASIS/2019/Finals) | [md5_online](ASIS/2019/Finals/md5_online) | [CTFtime](https://ctftime.org/event/805) [Writeups](https://ctftime.org/event/805/tasks/) |
 | [ASIS 2019 Finals](ASIS/2019/Finals) | [ROP13](ASIS/2019/Finals/ROP13) | [CTFtime](https://ctftime.org/event/805) [Writeups](https://ctftime.org/event/805/tasks/) |
 | [ASIS 2019 Finals](ASIS/2019/Finals) | [BFI](ASIS/2019/Finals/BFI) | [CTFtime](https://ctftime.org/event/805) [Writeups](https://ctftime.org/event/805/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [zerotask](0CTF/2019/Quals/zerotask) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [scanner](0CTF/2019/Quals/scanner) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [plang](0CTF/2019/Quals/plang) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [babyaegis](0CTF/2019/Quals/babyaegis) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [applepie](0CTF/2019/Quals/applepie) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [If_on_a_winters_night_a_traveler](0CTF/2019/Quals/If_on_a_winters_night_a_traveler) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
-| [0CTF 2019 Quals](0CTF/2019/Quals) | [BabyHeap](0CTF/2019/Quals/BabyHeap) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [zerotask](0CTF/2019/Quals/zerotask) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [scanner](0CTF/2019/Quals/scanner) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [plang](0CTF/2019/Quals/plang) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [babyaegis](0CTF/2019/Quals/babyaegis) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [applepie](0CTF/2019/Quals/applepie) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [If_on_a_winters_night_a_traveler](0CTF/2019/Quals/If_on_a_winters_night_a_traveler) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
+| [0CTF/TCTF 2019 Quals](0CTF/2019/Quals) | [BabyHeap](0CTF/2019/Quals/BabyHeap) | [CTFtime](https://ctftime.org/event/736) [Writeups](https://ctftime.org/event/736/tasks/) |
 | [XMAS 2018](XMAS/2018) | [The_Calculator_2.0](XMAS/2018/The_Calculator_2.0) | [CTFtime](https://ctftime.org/event/724) [Writeups](https://ctftime.org/event/724/tasks/) |
 | [XMAS 2018](XMAS/2018) | [The_Calculator](XMAS/2018/The_Calculator) | [CTFtime](https://ctftime.org/event/724) [Writeups](https://ctftime.org/event/724/tasks/) |
 | [XMAS 2018](XMAS/2018) | [Random_Present](XMAS/2018/Random_Present) | [CTFtime](https://ctftime.org/event/724) [Writeups](https://ctftime.org/event/724/tasks/) |
@@ -871,20 +871,20 @@ Collection of CTF pwn challenges.
 | [ASIS 2018 Finals](ASIS/2018/Finals) | [asvdb](ASIS/2018/Finals/asvdb) | [CTFtime](https://ctftime.org/event/620) [Writeups](https://ctftime.org/event/620/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/ASIS/2018/Finals/asvdb) |
 | [ASIS 2018 Finals](ASIS/2018/Finals) | [Silver_Bullet](ASIS/2018/Finals/Silver_Bullet) | [CTFtime](https://ctftime.org/event/620) [Writeups](https://ctftime.org/event/620/tasks/) |
 | [ASIS 2018 Finals](ASIS/2018/Finals) | [KeX](ASIS/2018/Finals/KeX) | [CTFtime](https://ctftime.org/event/620) [Writeups](https://ctftime.org/event/620/tasks/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [Zer0FS](0CTF/2018/Quals/Zer0FS) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [MightyDragon](0CTF/2018/Quals/MightyDragon) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [MathGame](0CTF/2018/Quals/MathGame) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [HeapStormII](0CTF/2018/Quals/HeapStormII) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [BlackHoleTheory](0CTF/2018/Quals/BlackHoleTheory) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [babystack](0CTF/2018/Quals/babystack) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals/babystack) |
-| [0CTF 2018 Quals](0CTF/2018/Quals) | [babyheap](0CTF/2018/Quals/babyheap) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals/babyheap) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [vtp](0CTF/2018/Finals/vtp) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [pemu](0CTF/2018/Finals/pemu) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [keen_of_glory](0CTF/2018/Finals/keen_of_glory) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [freenote2018](0CTF/2018/Finals/freenote2018) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals/freenote2018) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [blackhole2](0CTF/2018/Finals/blackhole2) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [baby](0CTF/2018/Finals/baby) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
-| [0CTF 2018 Finals](0CTF/2018/Finals) | [JSCustom.tar.gz](0CTF/2018/Finals/JSCustom.tar.gz) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [Zer0FS](0CTF/2018/Quals/Zer0FS) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [MightyDragon](0CTF/2018/Quals/MightyDragon) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [MathGame](0CTF/2018/Quals/MathGame) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [HeapStormII](0CTF/2018/Quals/HeapStormII) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [BlackHoleTheory](0CTF/2018/Quals/BlackHoleTheory) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [babystack](0CTF/2018/Quals/babystack) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals/babystack) |
+| [0CTF/TCTF 2018 Quals](0CTF/2018/Quals) | [babyheap](0CTF/2018/Quals/babyheap) | [CTFtime](https://ctftime.org/event/557) [Writeups](https://ctftime.org/event/557/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Quals/babyheap) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [vtp](0CTF/2018/Finals/vtp) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [pemu](0CTF/2018/Finals/pemu) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [keen_of_glory](0CTF/2018/Finals/keen_of_glory) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [freenote2018](0CTF/2018/Finals/freenote2018) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/0CTF/2018/Finals/freenote2018) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [blackhole2](0CTF/2018/Finals/blackhole2) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [baby](0CTF/2018/Finals/baby) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
+| [0CTF/TCTF 2018 Finals](0CTF/2018/Finals) | [JSCustom.tar.gz](0CTF/2018/Finals/JSCustom.tar.gz) | [CTFtime](https://ctftime.org/event/558) [Writeups](https://ctftime.org/event/558/tasks/) |
 | [SECCON 2017 Quals](SECCON/2017/Quals) | [vm_no_fun](SECCON/2017/Quals/vm_no_fun) | [CTFtime](https://ctftime.org/event/512) [Writeups](https://ctftime.org/event/512/tasks/) |
 | [SECCON 2017 Quals](SECCON/2017/Quals) | [vigenere](SECCON/2017/Quals/vigenere) | [CTFtime](https://ctftime.org/event/512) [Writeups](https://ctftime.org/event/512/tasks/) |
 | [SECCON 2017 Quals](SECCON/2017/Quals) | [video_player](SECCON/2017/Quals/video_player) | [CTFtime](https://ctftime.org/event/512) [Writeups](https://ctftime.org/event/512/tasks/) [PersianCats](https://github.com/sajjadium/PersianCatsCTF/tree/master/SECCON/2017/Quals/video_player) |
