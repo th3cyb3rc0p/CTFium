@@ -2,6 +2,9 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [BSidesTLV 2020](BSidesTLV/2020) | [snappaste2](BSidesTLV/2020/snappaste2) | [CTFtime](https://ctftime.org/event/1078) [Writeups](https://ctftime.org/event/1078/tasks/) |
+| [BSidesTLV 2020](BSidesTLV/2020) | [snappaste1](BSidesTLV/2020/snappaste1) | [CTFtime](https://ctftime.org/event/1078) [Writeups](https://ctftime.org/event/1078/tasks/) |
+| [BSidesTLV 2020](BSidesTLV/2020) | [kapara](BSidesTLV/2020/kapara) | [CTFtime](https://ctftime.org/event/1078) [Writeups](https://ctftime.org/event/1078/tasks/) |
 | [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [ww](0CTF/2020/Quals/ww) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
 | [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [simple_echoserver](0CTF/2020/Quals/simple_echoserver) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
 | [0CTF/TCTF 2020 Quals](0CTF/2020/Quals) | [one_line_js](0CTF/2020/Quals/one_line_js) | [CTFtime](https://ctftime.org/event/1026) [Writeups](https://ctftime.org/event/1026/tasks/) |
