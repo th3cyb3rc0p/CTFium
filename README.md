@@ -2,6 +2,17 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [ASIS 2020 Quals](ASIS/2020/Quals) | [tthttpd](ASIS/2020/Quals/tthttpd) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
+| [ASIS 2020 Quals](ASIS/2020/Quals) | [shared_house](ASIS/2020/Quals/shared_house) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
+| [ASIS 2020 Quals](ASIS/2020/Quals) | [safari_park](ASIS/2020/Quals/safari_park) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
+| [ASIS 2020 Quals](ASIS/2020/Quals) | [invisible](ASIS/2020/Quals/invisible) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
+| [ASIS 2020 Quals](ASIS/2020/Quals) | [full_protection](ASIS/2020/Quals/full_protection) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
+| [ASIS 2020 Quals](ASIS/2020/Quals) | [babynote](ASIS/2020/Quals/babynote) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
+| [SCTF/XCTF 2020](SCTF/2020) | [snake](SCTF/2020/snake) | [CTFtime](https://ctftime.org/event/1068) [Writeups](https://ctftime.org/event/1068/tasks/) |
+| [SCTF/XCTF 2020](SCTF/2020) | [coolcode](SCTF/2020/coolcode) | [CTFtime](https://ctftime.org/event/1068) [Writeups](https://ctftime.org/event/1068/tasks/) |
+| [SCTF/XCTF 2020](SCTF/2020) | [EasyWinHeap](SCTF/2020/EasyWinHeap) | [CTFtime](https://ctftime.org/event/1068) [Writeups](https://ctftime.org/event/1068/tasks/) |
+| [CSCML 2020](CSCML/2020) | [strcmp](CSCML/2020/strcmp) | [CTFtime](https://ctftime.org/event/1071) [Writeups](https://ctftime.org/event/1071/tasks/) |
+| [CSCML 2020](CSCML/2020) | [notes](CSCML/2020/notes) | [CTFtime](https://ctftime.org/event/1071) [Writeups](https://ctftime.org/event/1071/tasks/) |
 | [BSidesTLV 2020](BSidesTLV/2020) | [snappaste2](BSidesTLV/2020/snappaste2) | [CTFtime](https://ctftime.org/event/1078) [Writeups](https://ctftime.org/event/1078/tasks/) |
 | [BSidesTLV 2020](BSidesTLV/2020) | [snappaste1](BSidesTLV/2020/snappaste1) | [CTFtime](https://ctftime.org/event/1078) [Writeups](https://ctftime.org/event/1078/tasks/) |
 | [BSidesTLV 2020](BSidesTLV/2020) | [kapara](BSidesTLV/2020/kapara) | [CTFtime](https://ctftime.org/event/1078) [Writeups](https://ctftime.org/event/1078/tasks/) |
