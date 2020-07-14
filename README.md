@@ -2,6 +2,16 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [rgbCTF 2020](rgbCTF/2020) | [too_slow](rgbCTF/2020/too_slow) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
+| [rgbCTF 2020](rgbCTF/2020) | [timemachine](rgbCTF/2020/timemachine) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
+| [rgbCTF 2020](rgbCTF/2020) | [soda_pop_bop](rgbCTF/2020/soda_pop_bop) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
+| [rgbCTF 2020](rgbCTF/2020) | [rop_bop](rgbCTF/2020/rop_bop) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
+| [TSGCTF 2020](TSGCTF/2020) | [violence-fixer](TSGCTF/2020/violence-fixer) | [CTFtime](https://ctftime.org/event/1004) [Writeups](https://ctftime.org/event/1004/tasks/) |
+| [TSGCTF 2020](TSGCTF/2020) | [std_vector](TSGCTF/2020/std_vector) | [CTFtime](https://ctftime.org/event/1004) [Writeups](https://ctftime.org/event/1004/tasks/) |
+| [TSGCTF 2020](TSGCTF/2020) | [rachell](TSGCTF/2020/rachell) | [CTFtime](https://ctftime.org/event/1004) [Writeups](https://ctftime.org/event/1004/tasks/) |
+| [TSGCTF 2020](TSGCTF/2020) | [karte](TSGCTF/2020/karte) | [CTFtime](https://ctftime.org/event/1004) [Writeups](https://ctftime.org/event/1004/tasks/) |
+| [TSGCTF 2020](TSGCTF/2020) | [detective](TSGCTF/2020/detective) | [CTFtime](https://ctftime.org/event/1004) [Writeups](https://ctftime.org/event/1004/tasks/) |
+| [TSGCTF 2020](TSGCTF/2020) | [beginners_pwn](TSGCTF/2020/beginners_pwn) | [CTFtime](https://ctftime.org/event/1004) [Writeups](https://ctftime.org/event/1004/tasks/) |
 | [ASIS 2020 Quals](ASIS/2020/Quals) | [tthttpd](ASIS/2020/Quals/tthttpd) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
 | [ASIS 2020 Quals](ASIS/2020/Quals) | [shared_house](ASIS/2020/Quals/shared_house) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
 | [ASIS 2020 Quals](ASIS/2020/Quals) | [safari_park](ASIS/2020/Quals/safari_park) | [CTFtime](https://ctftime.org/event/964) [Writeups](https://ctftime.org/event/964/tasks/) |
