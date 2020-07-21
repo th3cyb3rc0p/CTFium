@@ -2,6 +2,16 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [UIUCTF 2020](UIUCTF/2020) | [MuJS](UIUCTF/2020/MuJS) | [CTFtime](https://ctftime.org/event/1075) [Writeups](https://ctftime.org/event/1075/tasks/) |
+| [UIUCTF 2020](UIUCTF/2020) | [Accounting_Accidents](UIUCTF/2020/Accounting_Accidents) | [CTFtime](https://ctftime.org/event/1075) [Writeups](https://ctftime.org/event/1075/tasks/) |
+| [CSICTF 2020](CSICTF/2020) | [Smash](CSICTF/2020/Smash) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
+| [CSICTF 2020](CSICTF/2020) | [Secret_Society](CSICTF/2020/Secret_Society) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
+| [CSICTF 2020](CSICTF/2020) | [Global_Warming](CSICTF/2020/Global_Warming) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
+| [CSICTF 2020](CSICTF/2020) | [pwn-intended-0x3](CSICTF/2020/pwn-intended-0x3) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
+| [CSICTF 2020](CSICTF/2020) | [pwn-intended-0x2](CSICTF/2020/pwn-intended-0x2) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
+| [CSICTF 2020](CSICTF/2020) | [pwn-intended-0x1](CSICTF/2020/pwn-intended-0x1) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
+| [Chujowy 2020](Chujowy/2020) | [FordCPU_FlagDevice](Chujowy/2020/FordCPU_FlagDevice) | [CTFtime](https://ctftime.org/event/1087) [Writeups](https://ctftime.org/event/1087/tasks/) |
+| [Chujowy 2020](Chujowy/2020) | [FordCPU_DMA](Chujowy/2020/FordCPU_DMA) | [CTFtime](https://ctftime.org/event/1087) [Writeups](https://ctftime.org/event/1087/tasks/) |
 | [rgbCTF 2020](rgbCTF/2020) | [too_slow](rgbCTF/2020/too_slow) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
 | [rgbCTF 2020](rgbCTF/2020) | [timemachine](rgbCTF/2020/timemachine) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
 | [rgbCTF 2020](rgbCTF/2020) | [soda_pop_bop](rgbCTF/2020/soda_pop_bop) | [CTFtime](https://ctftime.org/event/1042) [Writeups](https://ctftime.org/event/1042/tasks/) |
