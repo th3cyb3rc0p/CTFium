@@ -2,6 +2,15 @@ Collection of CTF pwn challenges.
 
 | CTF                        | Challenge   | Links          |
 |:--------------------------:|:-----------:|:--------------:|
+| [CyBRICS 2020](CyBRICS/2020) | [pwnogram-2](CyBRICS/2020/pwnogram-2) | [CTFtime](https://ctftime.org/event/1012) [Writeups](https://ctftime.org/event/1012/tasks/) |
+| [CyBRICS 2020](CyBRICS/2020) | [pwnogram-1](CyBRICS/2020/pwnogram-1) | [CTFtime](https://ctftime.org/event/1012) [Writeups](https://ctftime.org/event/1012/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [one_and_a_half_man](3kCTF/2020/one_and_a_half_man) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [linker_revenge](3kCTF/2020/linker_revenge) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [linker](3kCTF/2020/linker) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [faker](3kCTF/2020/faker) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [big_houses](3kCTF/2020/big_houses) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [base_jumper](3kCTF/2020/base_jumper) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
+| [3kCTF 2020](3kCTF/2020) | [babym1ps](3kCTF/2020/babym1ps) | [CTFtime](https://ctftime.org/event/1077) [Writeups](https://ctftime.org/event/1077/tasks/) |
 | [UIUCTF 2020](UIUCTF/2020) | [MuJS](UIUCTF/2020/MuJS) | [CTFtime](https://ctftime.org/event/1075) [Writeups](https://ctftime.org/event/1075/tasks/) |
 | [UIUCTF 2020](UIUCTF/2020) | [Accounting_Accidents](UIUCTF/2020/Accounting_Accidents) | [CTFtime](https://ctftime.org/event/1075) [Writeups](https://ctftime.org/event/1075/tasks/) |
 | [csictf 2020](csictf/2020) | [Smash](csictf/2020/Smash) | [CTFtime](https://ctftime.org/event/1081) [Writeups](https://ctftime.org/event/1081/tasks/) |
