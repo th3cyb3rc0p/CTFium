@@ -2,6 +2,9 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [WMCTF 2020](WMCTF/2020) | [CTFtime](https://ctftime.org/event/1094) | [CTFtime](https://ctftime.org/event/1094/tasks/) |
+| [InCTF 2020](InCTF/2020) | [CTFtime](https://ctftime.org/event/981) | [CTFtime](https://ctftime.org/event/981/tasks/) |
+| [HacktivityCon 2020](HacktivityCon/2020) | [CTFtime](https://ctftime.org/event/1101) | [CTFtime](https://ctftime.org/event/1101/tasks/) |
 | [CyBRICS 2020](CyBRICS/2020) | [CTFtime](https://ctftime.org/event/1012) | [CTFtime](https://ctftime.org/event/1012/tasks/) |
 | [3kCTF 2020](3kCTF/2020) | [CTFtime](https://ctftime.org/event/1077) | [CTFtime](https://ctftime.org/event/1077/tasks/) |
 | [UIUCTF 2020](UIUCTF/2020) | [CTFtime](https://ctftime.org/event/1075) | [CTFtime](https://ctftime.org/event/1075/tasks/) |
