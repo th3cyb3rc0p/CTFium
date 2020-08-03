@@ -1,7 +1,7 @@
 Collection of CTF pwn challenges.
 
-| CTF                        | Event       | Writeups       |
-|:--------------------------:|:-----------:|:--------------:|
+| CTF                      | Event     | Writeups     |
+|--------------------------|-----------|--------------|
 | [CyBRICS 2020](CyBRICS/2020) | [CTFtime](https://ctftime.org/event/1012) | [CTFtime](https://ctftime.org/event/1012/tasks/) |
 | [3kCTF 2020](3kCTF/2020) | [CTFtime](https://ctftime.org/event/1077) | [CTFtime](https://ctftime.org/event/1077/tasks/) |
 | [UIUCTF 2020](UIUCTF/2020) | [CTFtime](https://ctftime.org/event/1075) | [CTFtime](https://ctftime.org/event/1075/tasks/) |
