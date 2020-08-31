@@ -2,6 +2,9 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [GACTF 2020](GACTF/2020) | [CTFtime](https://ctftime.org/event/1115) | [CTFtime](https://ctftime.org/event/1115/tasks/) |
+| [FwordCTF 2020](FwordCTF/2020) | [CTFtime](https://ctftime.org/event/1066) | [CTFtime](https://ctftime.org/event/1066/tasks/) |
+| [ByteCTF 2020](ByteCTF/2020) | [CTFtime](https://ctftime.org/event/1114) | [CTFtime](https://ctftime.org/event/1114/tasks/) |
 | [Google CTF 2020](GoogleCTF/2020) | [CTFtime](https://ctftime.org/event/1041) | [CTFtime](https://ctftime.org/event/1041/tasks/) |
 | [HackersPlayground 2020](HackersPlayground/2020) | [CTFtime](https://ctftime.org/event/1107) | [CTFtime](https://ctftime.org/event/1107/tasks/) |
 | [AppSecVillage (CTF)2 2020](AppSecVillage/2020) | [CTFtime](https://ctftime.org/event/1110) | [CTFtime](https://ctftime.org/event/1110/tasks/) |
