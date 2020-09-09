@@ -2,6 +2,9 @@ Collection of CTF pwn challenges.
 
 | CTF                      | Event     | Writeups     |
 |--------------------------|-----------|--------------|
+| [CONFidence 2020 Finals](CONFidence/2020/Finals) | [CTFtime](https://ctftime.org/event/1090) | [CTFtime](https://ctftime.org/event/1090/tasks/) |
+| [ALLES 2020](ALLES/2020) | [CTFtime](https://ctftime.org/event/1091) | [CTFtime](https://ctftime.org/event/1091/tasks/) |
+| [COMPFEST 2020](COMPFEST/2020) | [CTFtime](https://ctftime.org/event/1123) | [CTFtime](https://ctftime.org/event/1123/tasks/) |
 | [GACTF 2020](GACTF/2020) | [CTFtime](https://ctftime.org/event/1115) | [CTFtime](https://ctftime.org/event/1115/tasks/) |
 | [FwordCTF 2020](FwordCTF/2020) | [CTFtime](https://ctftime.org/event/1066) | [CTFtime](https://ctftime.org/event/1066/tasks/) |
 | [ByteCTF 2020](ByteCTF/2020) | [CTFtime](https://ctftime.org/event/1114) | [CTFtime](https://ctftime.org/event/1114/tasks/) |
